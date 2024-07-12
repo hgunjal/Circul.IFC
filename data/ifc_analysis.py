@@ -56,7 +56,7 @@ class IfcAnalysis:
 
                                 # Check if the opening element is in the door_host_wall_dict
                                 if opening_element.GlobalId in self.door_host_wall_dict:
-                                    print(f"  Opening Element GlobalId: {opening_element.GlobalId}")
+                                    # print(f"  Opening Element GlobalId: {opening_element.GlobalId}")
 
                                     # Retrieve the ObjectPlacement associated with the opening element
                                     object_placement = opening_element.ObjectPlacement
@@ -69,7 +69,7 @@ class IfcAnalysis:
                                             if relative_placement:
                                                 if relative_placement.is_a("IfcAxis2Placement3D"):
                                                     coordinates = relative_placement.Location.Coordinates
-                                                    print(f"    Coordinates of IfcLocalPlacement for Opening '{opening_element.Name}': {coordinates}")
+                                                    print(f"    Coordinates for Opening '{opening_element.Name}': {coordinates}")
                                                 elif relative_placement.is_a("IfcAxis2Placement2D"):
                                                     coordinates = relative_placement.Location.Coordinates
                                                     print(f"    Coordinates of IfcLocalPlacement for Opening '{opening_element.Name}': {coordinates} (2D placement)")
@@ -89,6 +89,11 @@ def main(ifc_file_path):
     analysis = IfcAnalysis(ifc_project)
     analysis.analyze_walls_and_openings()
 
+    # doors = ifc_project.doors
+    # for d in doors:
+    #     print(f"Door GlobalId: {d.GlobalId}, Name: {d.Name}") #get all doors
+
 if __name__ == '__main__':
     file_path = r'C:\Users\harsh\Documents\Master Thesis\ifc_processing\AC20-FZK-Haus.ifc'
+    # file_path = r'C:\Users\harsh\Documents\Master Thesis\TUM_Gebaude N6_IFC4.ifc'
     main(file_path)
