@@ -1,0 +1,840 @@
+{
+    "1_N0610 WC-H_1mbghB_uL4ZQnn90r0$Wms": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "2_N0610A Putzraum_1mbghB_uL4ZQnn90r0$WkR": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "3_N0610B Vorraum WC-H_1mbghB_uL4ZQnn90r0$WkT": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "4_N0609_1mbghB_uL4ZQnn90r0$WkN": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "5_N0607A Aufenthalt_1mbghB_uL4ZQnn90r0$Wk9": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "6_N0690 Personenaufzug_1mbghB_uL4ZQnn90r0$Wk3": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "7_N0608 Flur_1mbghB_uL4ZQnn90r0$Wlq": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "8_N0607 Aufenthalt_1mbghB_uL4ZQnn90r0$Wlk": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "9_N0606B B\u00fcro_1mbghB_uL4ZQnn90r0$Wlb": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "10_N0606 Flur_1mbghB_uL4ZQnn90r0$WlH": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "11_N0605 Werkstatt_1mbghB_uL4ZQnn90r0$WlB": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "12_N0604 Werkstatt_1mbghB_uL4ZQnn90r0$Wl4": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "13_N0603 Werkstatt_1mbghB_uL4ZQnn90r0$Wi_": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "14_N0602 Labor_1mbghB_uL4ZQnn90r0$Wir": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "15_N0601 Lager_1mbghB_uL4ZQnn90r0$Wil": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "16_N0679 Treppenhaus_1mbghB_uL4ZQnn90r0$WiX": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "17_N0629 Lager_1mbghB_uL4ZQnn90r0$WiR": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "18_N0628 Vorraum WC-H_1mbghB_uL4ZQnn90r0$WjM": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "19_N0630 WC-H_1mbghB_uL4ZQnn90r0$Wj8": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "20_N0627 Lager_1mbghB_uL4ZQnn90r0$Wc8": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "21_N0676 Treppenhaus_1mbghB_uL4ZQnn90r0$Wc2": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "22_N0675 Flur_1mbghB_uL4ZQnn90r0$Wd3": [
+        {
+            "Related_Building_Element_Name": "CWFieldsAndSonLimited_Doorset_44mmThick_LeafHalfInternalDoor:TimberCore44:2607820",
+            "Related_Building_Element_GlobalID": "33VenhTmT2zgbB8D5UHBZd",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        }
+    ],
+    "23_N0624A Messraum_1mbghB_uL4ZQnn90r0$Wd5": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "24_N0624 B\u00fcro_1mbghB_uL4ZQnn90r0$Wa$": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "25_N0623 Garage_1mbghB_uL4ZQnn90r0$Wan": [
+        {
+            "Related_Building_Element_Name": "Door_Internal-Noberne-Series_SR40_Acoustic_Door_Double_NG0:Series SR40 - FD 30S - 2085x1799mm 2:2596848",
+            "Related_Building_Element_GlobalID": "33VenhTmT2zgbB8D5UHEtR",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "Door_Internal-Noberne-Series_SR40_Acoustic_Door_Double_NG0:Series SR40 - FD 30S - 2085x1799mm 2:2596848",
+            "Related_Building_Element_GlobalID": "33VenhTmT2zgbB8D5UHEtR",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        }
+    ],
+    "26_N0622 B\u00fcro_1mbghB_uL4ZQnn90r0$Wah": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "27_N0674 Flur_1mbghB_uL4ZQnn90r0$Waj": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "28_N0631 Aktenlager_1mbghB_uL4ZQnn90r0$Wad": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "29_N0672 Personenaufzug_1mbghB_uL4ZQnn90r0$XTe": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "30_N0673 Treppenhaus_1mbghB_uL4ZQnn90r0$XTd": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "31_N0617 Labor_1mbghB_uL4ZQnn90r0$XTJ": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "32_N0616 Annahme/Ausg._1mbghB_uL4ZQnn90r0$XTA": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "33_N0615 Annahme/Ausg._1mbghB_uL4ZQnn90r0$XRS": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "34_N0612 Versuchshalle_3VNc0igY56DO1d7cikTQRX": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "35_Luftfl\u00e4chen_3VNc0igY56DO1d7cikTQXx": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "36_N0671_3VNc0igY56DO1d7cikTQnM": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "37_N0670 Verkehrsfl._3VNc0igY56DO1d7cikTQnS": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "38_N0611 Versuchshalle_3VNc0igY56DO1d7cikTQtW": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "39_N1618A WC-H_3Szq9NZ5b6lANK8wF7Tbi2": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "40_N1690 Personenaufzug_2KZh_c4PX51hcyoLNAG3kA": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "41_N1618B Putzraum_2KZh_c4PX51hcyoLNAG3kD": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "42_N1618 Vorraum WC-H_2KZh_c4PX51hcyoLNAG3kX": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "43_N1617 Kopierer_1_LQ$EaFn3cAHjyu1GbA6W": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "44_N1601 B\u00fcro_0WFrv2PrD9tuny4MA5wuiT": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "45_N1602 B\u00fcro_0WFrv2PrD9tuny4MA5wuiQ": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "46_N1603 B\u00fcro_0WFrv2PrD9tuny4MA5wuiN": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "47_N1604 B\u00fcro_0WFrv2PrD9tuny4MA5wubk": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "48_N1605 B\u00fcro_0WFrv2PrD9tuny4MA5wubh": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "49_N1606 B\u00fcro_0WFrv2PrD9tuny4MA5wube": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "50_N1607A Server_0A61UaGGT6JRqVsSAwwBdN": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "51_N1607 Kopierer_0A61UaGGT6JRqVsSAwwBdQ": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "52_N1608 B\u00fcro_0A61UaGGT6JRqVsSAwwBdT": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "53_N1609 B\u00fcro_0A61UaGGT6JRqVsSAwwBd0": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "54_N1610 B\u00fcro_0A61UaGGT6JRqVsSAwwBd3": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "55_N1611 B\u00fcro_0A61UaGGT6JRqVsSAwwLG9": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "56_N1612 B\u00fcro_0A61UaGGT6JRqVsSAwwLGC": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "57_N1613 B\u00fcro_0A61UaGGT6JRqVsSAwwLVp": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "58_N1614 B\u00fcro_0A61UaGGT6JRqVsSAwwLVs": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "59_N1615 B\u00fcro_0A61UaGGT6JRqVsSAwwL8L": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "60_N1616 B\u00fcro_0A61UaGGT6JRqVsSAwwL8O": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "61_N1680 Flur_26LN5EJ5vAHwFZhEp03__D": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "62_N1681 Flur_26LN5EJ5vAHwFZhEp03__A": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "64_N1677 Flur_0F3XE5P3DDSv_d5Madgnpk": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "65_Luftf\u00e4chen_0F3XE5P3DDSv_d5Madgsa3": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "66_N1682 Flur_0F3XE5P3DDSv_d5Madgszn": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "67_Luftfl\u00e4chen_0LENlZh35D69Qzy6rexYTF": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "68_N1629 Foyer_0LENlZh35D69Qzy6rexYhC": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "70_N1670 Treppenhaus_35B4ZKBsb6N8T23IWym46a": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "71_N1630 Seminar_35B4ZKBsb6N8T23IWym4Gb": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "72_N1631 Putzraum_3xvb7qt6L3axh4CeKhTAZI": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "73_N1632 Installation_3xvb7qt6L3axh4CeKhTAdE": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "74_N1633 TB-Anlage_3xvb7qt6L3axh4CeKhTAd5": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "75_N1672 Flur_3xvb7qt6L3axh4CeKhTAdS": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "76_N1672A Personenaufzug_3xvb7qt6L3axh4CeKhTAfE": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "77_N1673 Treppenhaus_3xvb7qt6L3axh4CeKhTAf5": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "78_N1634 B\u00fcro_21yalNJRf3m8G9p3kOKH1C": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "79_N1635 B\u00fcro_21yalNJRf3m8G9p3kOKH19": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "80_N1636 B\u00fcro_21yalNJRf3m8G9p3kOKH16": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "81_N1637 B\u00fcro_21yalNJRf3m8G9p3kOKH1T": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "82_N1638 B\u00fcro_21yalNJRf3m8G9p3kOKH1Q": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "83_N1639 B\u00fcro_21yalNJRf3m8G9p3kOKH1N": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "84_N1640 Kopierer_21yalNJRf3m8G9p3kOKH2k": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "85_N1641 B\u00fcro_21yalNJRf3m8G9p3kOKH2h": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "86_N1642 B\u00fcro_21yalNJRf3m8G9p3kOKH2e": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "87_N1674 Flur_21yalNJRf3m8G9p3kOKH2$": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "88_N1643 Lager_21yalNJRf3m8G9p3kOKHaZ": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "89_N1676 Treppenhaus_21yalNJRf3m8G9p3kOKHax": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "90_N1644 WC-H_21yalNJRf3m8G9p3kOKHl0": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "91_N1644A Vorraum WC-H_21yalNJRf3m8G9p3kOKHlT": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "92_N1645 WC-D_21yalNJRf3m8G9p3kOKHlQ": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "93_N2637 WC-H_0F37xYE592qQfysR6XFR8c": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "94_N2637A Vorraum WC-H_0F37xYE592qQfysR6XFR8_": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "95_N2638 WC-D_0F37xYE592qQfysR6XFR8p": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "96_N2636 Lager_0F37xYE592qQfysR6XFR80": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "97_N2676 Treppenhaus_0F37xYE592qQfysR6XFR8P": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "98_N2635 B\u00fcro_0F37xYE592qQfysR6XFR8I": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "99_N2634 B\u00fcro_0F37xYE592qQfysR6XFR8N": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "100_N2633 B\u00fcro_0F37xYE592qQfysR6XFR8K": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "101_N2632 B\u00fcro_0F37xYE592qQfysR6XFR9f": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "102_N2631 B\u00fcro_0F37xYE592qQfysR6XFR9k": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "103_N2674 Flur_0F37xYE592qQfysR6XFR9x": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "104_N2630 B\u00fcro_0F37xYE592qQfysR6XFR9y": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "105_N2626 B\u00fcro_0F37xYE592qQfysR6XFR9n": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "106_N2625 B\u00fcro_0F37xYE592qQfysR6XFR9s": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "107_N2672A Personenaufzug_0F37xYE592qQfysR6XFRl7": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "108_N2673 Treppenhaus_0F37xYE592qQfysR6XFRl4": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "109_N2624 Lager_0F37xYE592qQfysR6XFRnj": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "110_N2622 Lager_0zxhb1jwvFrB4v09aU$wcp": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "111_N2621 Flur_0zxhb1jwvFrB4v09aU$wTM": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "112_N2620 Lesepl\u00e4tze_0zxhb1jwvFrB4v09aU$5fL": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "113_N2619 Konferenzsaal_0zxhb1jwvFrB4v09aU$5Oe": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "114_N2677 Flur_0zxhb1jwvFrB4v09aU$5Om": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "115_Luftfl\u00e4che_0zxhb1jwvFrB4v09aU$5Nm": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "116_N2682 Flur_0zxhb1jwvFrB4v09aU$5B3": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "117_Luftfl\u00e4che_0zxhb1jwvFrB4v09aU$5BQ": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "119_N2670 Treppenhaus_0zxhb1jwvFrB4v09aU$56Z": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "120_N2690 Personenaufzug_1g6W00HvrA4QIi3g9BlU9L": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "121_N2601 B\u00fcro_1Xj1LpTKn0hwDOnO9U2t0Z": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "122_N2602 B\u00fcro_1Xj1LpTKn0hwDOnO9U2t0_": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "123_N2603 B\u00fcro_1Xj1LpTKn0hwDOnO9U2t0z": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "124_N2604 B\u00fcro_1Xj1LpTKn0hwDOnO9U2t0u": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "125_N2605 Besprechung_1Xj1LpTKn0hwDOnO9U2t0t": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "126_N2606 B\u00fcro_1Xj1LpTKn0hwDOnO9U2t0o": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "127_N2607 B\u00fcro_1Xj1LpTKn0hwDOnO9U2t0n": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "128_N2609B B\u00fcro_1Xj1LpTKn0hwDOnO9U2t0C": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "129_N2609A B\u00fcro_1Xj1LpTKn0hwDOnO9U2t0B": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "130_N2609 B\u00fcro_1Xj1LpTKn0hwDOnO9U2t06": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "131_N2610 B\u00fcro_1Xj1LpTKn0hwDOnO9U2t05": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "132_N2611 B\u00fcro_1Xj1LpTKn0hwDOnO9U2t00": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "133_N2612 Teek\u00fcche_1Xj1LpTKn0hwDOnO9U2t0V": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "134_N2613 B\u00fcro_1Xj1LpTKn0hwDOnO9U2t0Q": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "135_N2614 Lager_1Xj1LpTKn0hwDOnO9U2t0P": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "136_N2680 Flur_1oOHG9BYLALgyf4W65_0tR": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "137_N2681 Flur_1oOHG9BYLALgyf4W65_0sY": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "138_N2617A Vorraum WC-D_17FR6kbm12Fh$2pzlWJopg": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "139_N2617B Putzraum_17FR6kbm12Fh$2pzlWJopL": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "140_N2617 WC-D_17FR6kbm12Fh$2pzlWJopG": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "141_N-1690 Personenaufzug_3gkGN3cIn3GfW4n5S$83JM": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "142_N-1610 Werkstatt_3gkGN3cIn3GfW4n5S$8Cv7": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "143_N-1610A Sandstrahlraum_3gkGN3cIn3GfW4n5S$8CvS": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "144_N-1609 Lager_3gkGN3cIn3GfW4n5S$8CvK": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "145_N-1608 Labor_38RoHrNHD4s9pDdqsfxWWs": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "146_N-1606 Lager_38RoHrNHD4s9pDdqsfxWWx": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "147_N-1605 Lager_38RoHrNHD4s9pDdqsfxXU0": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "148_N-1603 Labor_38RoHrNHD4s9pDdqsfxXGU": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "149_N-1602 Labor_38RoHrNHD4s9pDdqsfxXcU": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "150_N-1601 Lager_2TpMrZtWH87h5bxc1$7gPs": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "151_N-1620A Server_2TpMrZtWH87h5bxc1$7gdw": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "152_N-1620 Lager_2TpMrZtWH87h5bxc1$7gYT": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "153_N-1801 Archiv_2TpMrZtWH87h5bxc1$7h6R": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "154_N-1803 Lager_1DnvVeeKfA_fQrve48aVQR": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "155_N-1802 Lager_1DnvVeeKfA_fQrve48aVPO": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "156_N-1611A K\u00fchlraum_1e_JEEGobCE9lfcpAlgIrD": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "157_N-1617 WC-H_1ZGwSlBKX1fhx$quWqkpIv": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "158_N-1617A Vorraum WC-H_1ZGwSlBKX1fhx$quWqkpa6": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "159_N-1616 Flur_1ZGwSlBKX1fhx$quWqkoAI": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "160_N-1618 Duschen_1ZGwSlBKX1fhx$quWqko3I": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "161_N-1671 Treppenha\u00fas_1ZGwSlBKX1fhx$quWqko3N": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "162_N-1604 Schleuse_0PGOXOdgzC0unapdvJZ0A3": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "163_N-1615 Abwasseraufber._0PGOXOdgzC0unapdvJZ0A0": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "164_N-1614 Stromversorgung_0PGOXOdgzC0unapdvJZ0ke": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "165_N-1613 Stromversorgung_0PGOXOdgzC0unapdvJZ3Nh": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "166_N-1612A Stromversorgung_0BZD7xrIL3h80Kncn0XZx6": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "167_N-1611 Lager_0BZD7xrIL3h80Kncn0XZvz": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "168_N-1621 Werkstatt_0BZD7xrIL3h80Kncn0XZvq": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "169_N-1672 Personenaufzug_0BZD7xrIL3h80Kncn0Xa8I": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "170_N-1623 Abstellraum_0BZD7xrIL3h80Kncn0XaNd": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "171_N-1673 Treppenhaus_0BZD7xrIL3h80Kncn0XaNY": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "172_N-1624 Lager_0BZD7xrIL3h80Kncn0XaJ$": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "173_N-1625 Labor_0BZD7xrIL3h80Kncn0XacO": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "174_N-1626 Labor_0BZD7xrIL3h80Kncn0XaW6": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "175_N-1627 Labor_0BZD7xrIL3h80Kncn0Xakc": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "176_N-1628 Labor_0BZD7xrIL3h80Kncn0Xb8j": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "177_N-1629 Abstellraum_1NlgeWqnbEgAJrf$5_aO8n": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "178_N-1676 Treppenhaus_1NlgeWqnbEgAJrf$5_aO8o": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "179_N-1631 Umkleide_1NlgeWqnbEgAJrf$5_aO7$": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "180_N-1631B Duschen_1NlgeWqnbEgAJrf$5_aO7u": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "181_N-1631C WC-D_1NlgeWqnbEgAJrf$5_aO7r": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "182_N-2601Abwasseraufber._3ZUF3lqZbE_R_xCXUt8vqh": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "183_N-2631 Install.schacht_3ZUF3lqZbE_R_xCXUt8vql": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "184_N-2676 Treppenhaus_3ZUF3lqZbE_R_xCXUt8vqI": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "186_N-2603 Sonst. TB-Anl._3ZUF3lqZbE_R_xCXUt8wCR": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "189_N-2621 Sonst. TB-Anl._2onNBYzg9DgesTvnZK8cMa": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "190_N-2622 Lager_2onNBYzg9DgesTvnZK8cLn": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "191_N-2623 Stromversorgung_2onNBYzg9DgesTvnZK8Xar": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "192_N-2673 Treppenhaus_2onNBYzg9DgesTvnZK8Xau": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "193_N3617A Vorraum WC-D_2$5Q5d1cv7IBTYgE9epThs": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "194_N3618A Vorraum WC-H_2$5Q5d1cv7IBTYgE9epTho": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "195_N3617 WC-D_2$5Q5d1cv7IBTYgE9epThF": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "196_N3618 WC-H_2$5Q5d1cv7IBTYgE9epTga": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "198_N3615 Lager_2$5Q5d1cv7IBTYgE9epSQ9": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "199_N3616 Beh.-WC_2$5Q5d1cv7IBTYgE9epSQA": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "200_N3614 Aufenthalt_2$5Q5d1cv7IBTYgE9epSZW": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "201_N3613 B\u00fcro_2$5Q5d1cv7IBTYgE9epSZz": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "202_N3612 B\u00fcro_2$5Q5d1cv7IBTYgE9epSZ_": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "203_N3611 B\u00fcro_2$5Q5d1cv7IBTYgE9epSZx": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "204_N3610 B\u00fcro_2$5Q5d1cv7IBTYgE9epSZq": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "205_N3609 B\u00fcro_2$5Q5d1cv7IBTYgE9epSZn": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "206_N3608 B\u00fcro_2$5Q5d1cv7IBTYgE9epSZo": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "207_N3607 Bibliothek_2$5Q5d1cv7IBTYgE9epSZF": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "208_N3604 B\u00fcro_2$5Q5d1cv7IBTYgE9epSZ8": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "209_N3605 Bibliothek_2$5Q5d1cv7IBTYgE9epSZ5": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "210_N3606 Bibliothek_2$5Q5d1cv7IBTYgE9epSZ6": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "211_N3603 Stud.arbeit_2$5Q5d1cv7IBTYgE9epSZ3": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "212_N3602 Lager_2$5Q5d1cv7IBTYgE9epSZS": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "213_N3601 Stromversorgung_2$5Q5d1cv7IBTYgE9epSZP": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "214_N3679 Flur_2$5Q5d1cv7IBTYgE9epSbd": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "215_N3680 Flur_2$5Q5d1cv7IBTYgE9epSbW": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "216_N3681 Flur_2$5Q5d1cv7IBTYgE9epSbP": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "217_N3622 Stromversorgung_3qjC9FX3X9EuMJWZd4GVwN": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "218_N3621 Lager_3qjC9FX3X9EuMJWZd4GVxu": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "219_N3672 Flur_3qjC9FX3X9EuMJWZd4GVxW": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "220_N3626 Bibliothek_3qjC9FX3X9EuMJWZd4GVZB": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "221_N3625 Bibliothek_3qjC9FX3X9EuMJWZd4GVZ8": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "222_N3624 B\u00fcro_3qjC9FX3X9EuMJWZd4GVZr": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "223_N3623 B\u00fcro_3qjC9FX3X9EuMJWZd4GVZo": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "224_N3619 Besprechung_3qjC9FX3X9EuMJWZd4GVfz": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "225_N3620 Besprechung_3qjC9FX3X9EuMJWZd4GVfw": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "226_N3682 Treppenhaus_3qjC9FX3X9EuMJWZd4GVfd": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "227_N3633 Abluft_32lurNvKjBugU1HV59rWUp": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "228_N3636 WC-D_32lurNvKjBugU1HV59rWUs": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "229_N3635A Vorraum WC-H_32lurNvKjBugU1HV59rWUr": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "230_N3635 WC-H_32lurNvKjBugU1HV59rWUS": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "231_N3676 Treppenhaus_32lurNvKjBugU1HV59rWGJ": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "233_N3675 Flur_32lurNvKjBugU1HV59rWJW": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "234_N3632 B\u00fcro_32lurNvKjBugU1HV59rW73": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "235_N3631 B\u00fcro_32lurNvKjBugU1HV59rW76": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "236_N3630 B\u00fcro_32lurNvKjBugU1HV59rW75": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "237_N3629 B\u00fcro_32lurNvKjBugU1HV59rW78": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "238_N3628 B\u00fcro_32lurNvKjBugU1HV59rW7F": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "239_N3627 B\u00fcro_32lurNvKjBugU1HV59r$uo": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "240_N3674 Flur_32lurNvKjBugU1HV59r$uB": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "241_N3672A Personenaufzug_32lurNvKjBugU1HV59r$uE": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "244_Bitumen_0oeilXWI57affOJhG2bTkU": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "245_Blech beschichtet_0oeilXWI57affOJhG2bTlv": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "247_N3681 Flur_3vmqf0_nH38PzhermHTRn9": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "248_Aufzug_3vmqf0_nH38PzhermHTRnC": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "249_N3673 Treppenhaus_1__38HPvb06g4T9DOIoLLb": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "250_N3674 Flur -2_3BriyxEmfARRJIgZm79G03": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "251_N3635 WC-H A_3BriyxEmfARRJIgZm79G2S": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "252_N3635 WC-H B_3BriyxEmfARRJIgZm79G2P": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "253_N3681-2 Flur_3BriyxEmfARRJIgZm79GD1": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "254_N3618 WC-H A_10urw7VT95HAWhKNAnaPe3": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "255_N3617 WC-D A_10urw7VT95HAWhKNAnaQNr": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "256_N3617 WC-D B_10urw7VT95HAWhKNAnaQNA": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "257_N2617 WC-D A_10urw7VT95HAWhKNAnaQM9": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "258_N2617 WC-D B_10urw7VT95HAWhKNAnaQ3J": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "259_N2617 WC-D C_10urw7VT95HAWhKNAnaQ3G": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "260_N2681 Flur 2_1v3eowz0jFWu1pFrnXIog7": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "261_N2637 WC-H A_0W4jBZGp1B88T7$Zl5xyQ4": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "262_N2637 WC-H B_0W4jBZGp1B88T7$Zl5xyQ7": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "263_N1644 WC-H A_0W4jBZGp1B88T7$Zl5xyVe": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "264_N1644 WC-H B_0W4jBZGp1B88T7$Zl5xyVh": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "265_N1681 Flur A_2eCNYA6Cf1VPnLzmYlvnSS": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "266_N1618A WC-H A_2eCNYA6Cf1VPnLzmYlvnUw": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "267_N1618A WC-H B_2eCNYA6Cf1VPnLzmYlvnUz": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "268_N0610 WC-H A_08og38$Q11V9Gd90lq6WrY": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "269_N0610 WC-H B_08og38$Q11V9Gd90lq6Wso": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "270_N0630 WC-H B_2JZ5yvKPz3NwH6N0KnK6vx": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "271_N0630 WC-H A_2JZ5yvKPz3NwH6N0KnK6vu": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "272_N-1617 WC-H A_2JZ5yvKPz3NwH6N0KnK6$3": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "273_Outside_0vKRQJ_cLETATSbPM2ItTD": [
+        {
+            "Related_Building_Element_Name": "Door_Internal-Noberne-Series_SR40_Acoustic_Door_Double_NG0:Series SR40 - FD 30S - 2085x1799mm 2:2596848",
+            "Related_Building_Element_GlobalID": "33VenhTmT2zgbB8D5UHEtR",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        }
+    ],
+    "274_Treppe aussen 01_0vKRQJ_cLETATSbPM2IqYs": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "275_Treppe aussen 05_0vKRQJ_cLETATSbPM2IqaE": [
+        {
+            "Related_Building_Element_Name": "Door_Internal-Noberne-Series_SR40_Acoustic_Door_Double_NG0:Series SR40 - FD 30S - 2085x1799mm 2:2596848",
+            "Related_Building_Element_GlobalID": "33VenhTmT2zgbB8D5UHEtR",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        }
+    ],
+    "276_Treppe aussen 02_0vKRQJ_cLETATSbPM2IqaD": [
+        {
+            "Related_Building_Element_Name": "CWFieldsAndSonLimited_Doorset_44mmThick_LeafHalfInternalDoor:TimberCore44:2607820",
+            "Related_Building_Element_GlobalID": "33VenhTmT2zgbB8D5UHBZd",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        }
+    ],
+    "277_Treppe aussen 04_0vKRQJ_cLETATSbPM2Iqa8": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "278_Treppe aussen 03_0vKRQJ_cLETATSbPM2IqaN": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "279_Dach_31xcnYZuH6d8XawV3rMVcZ": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "280_3og_31xcnYZuH6d8XawV3rMVcm": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "281_2og_31xcnYZuH6d8XawV3rMVc$": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "282_1og_31xcnYZuH6d8XawV3rMVc1": [
+        "No IfcRelSpaceBoundary relationships."
+    ]
+}

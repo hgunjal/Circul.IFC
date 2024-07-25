@@ -1,65 +1,56 @@
 import ifcopenshell.geom
+import ifcopenshell.util.shape
+from .ifc_element import IfcElement
 import numpy as np
 
-class IfcWall:
-    def __init__(self, wall):
-        self.wall = wall
-        self.polyline = self.extract_polyline()
-        self.openings = self.extract_openings()  # New: Method to extract openings
+class IfcWall(IfcElement):
+    def __init__(self, element):
+        super().__init__(element)
 
-    @property
-    def id(self):
-        return self.wall.id()
+    def calculate_bounding_box(self):
+        settings = ifcopenshell.geom.settings()
+        shape = ifcopenshell.geom.create_shape(settings, self.ifc_element)
+        geometry = shape.geometry
+        vertices = self.get_vertices(geometry)
+        bbox = self.get_bbox(vertices)
+        return bbox
 
-    @property
-    def name(self):
-        return self.wall.Name
+    def get_transformation_matrix(self):
+        settings = ifcopenshell.geom.settings()
+        shape = ifcopenshell.geom.create_shape(settings, self.ifc_element)
+        return ifcopenshell.util.shape.get_shape_matrix(shape)
 
-    @property
-    def polyline_points(self):
-        if self.polyline:
-            return [p.Coordinates for p in self.polyline.Points]
-        return None
+    def get_bounding_box_data(self):
+        min_coords, max_coords = self.calculate_bounding_box()
+        minx, miny, minz = min_coords
+        maxx, maxy, maxz = max_coords
+        length_x = maxx - minx
+        width_y = maxy - miny
 
-    @property
-    def start_point(self):
-        if self.polyline:
-            return np.array(self.polyline.Points[0].Coordinates)
-        return None
+        matrix = self.get_transformation_matrix()
 
-    @property
-    def end_point(self):
-        if self.polyline:
-            return np.array(self.polyline.Points[-1].Coordinates)
-        return None
+        # Extract the translation part (last column, excluding the last row)
+        translation_vector = matrix[:3, 3]
 
-    def extract_polyline(self):
-        if self.wall.Representation:
-            for representation in self.wall.Representation.Representations:
-                if representation.RepresentationType == "Curve2D":
-                    for item in representation.Items:
-                        if item.is_a('IfcPolyline'):
-                            return item
-        return None
+        # Extract the rotation part (upper-left 3x3 submatrix)
+        rotation_matrix = matrix[:3, :3]
 
-    def extract_openings(self):
-        openings = []
-        if self.wall.HasOpenings:
-            for opening_rel in self.wall.HasOpenings:
-                opening_element = opening_rel.RelatedOpeningElement
-                if opening_element and opening_element.Representation:
-                    context = opening_element.Representation.Representations[0].ContextOfItems
-                    shape = ifcopenshell.geom.create_shape(ifcopenshell.geom.settings(), opening_element)
-                    vertices = self.extract_vertices(shape)
-                    openings.append({
-                        'element': opening_element,
-                        'vertices': vertices
-                    })
-        return openings if openings else None  # Return None if no openings found
+        # The local X-axis direction
+        x_axis = rotation_matrix[:, 0]
 
-    def extract_vertices(self, shape):
-        vertices = shape.geometry.verts
-        grouped_vertices = []
-        for i in range(0, len(vertices), 3):
-            grouped_vertices.append(vertices[i:i+3])
-        return np.array(grouped_vertices)
+        # Calculate the second point using the computed length
+        second_point = translation_vector + length_x * x_axis
+
+        # Calculate the midpoint
+        midpoint = (translation_vector + second_point) / 2
+
+        return {
+            'Name': self.ifc_element.Name if hasattr(self.ifc_element, 'Name') else '',
+            'GUID': self.ifc_element.GlobalId if hasattr(self.ifc_element, 'GlobalId') else '',
+            'Length': length_x,
+            'Width': width_y,
+            'Start_Point': translation_vector.tolist(),
+            'Mid_Point': midpoint.tolist(),
+            'End_Point': second_point.tolist(),
+            'Building_Storey': self.get_container_name()
+        }

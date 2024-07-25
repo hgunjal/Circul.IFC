@@ -1,0 +1,403 @@
+{
+    "4_Schlafzimmer_347jFE2yX7IhCEIALmupEH": [
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-4",
+            "Related_Building_Element_GlobalID": "2XPyKWY018sA1ygZKgQPtU",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-2",
+            "Related_Building_Element_GlobalID": "3PfS__Y_DBAfq5naM6zD2Z",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-2",
+            "Related_Building_Element_GlobalID": "3PfS__Y_DBAfq5naM6zD2Z",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Innentuer-1",
+            "Related_Building_Element_GlobalID": "1Oms875aH3Wg$9l65H2ZGw",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Bodenplatte",
+            "Related_Building_Element_GlobalID": "1pPHnf7cXCpPsNEnQf8_6B",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-ERDG-2",
+            "Related_Building_Element_GlobalID": "1bzfVsJqn8De5PukCrqylz",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-ERDG-3",
+            "Related_Building_Element_GlobalID": "25fsbPyk15VvuXI$yNKenK",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "EG-Fenster-3",
+            "Related_Building_Element_GlobalID": "1DiYqhfzH9xxuJdVHwXCNa",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        {
+            "Related_Building_Element_Name": "EG-Fenster-8",
+            "Related_Building_Element_GlobalID": "13aSY79zb8fP4HApEJ0z_e",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "3_Bad_0e_hbkIQ5DMQlIJ$2V3j_m": [
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-2",
+            "Related_Building_Element_GlobalID": "3PfS__Y_DBAfq5naM6zD2Z",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-3",
+            "Related_Building_Element_GlobalID": "3jjW3rL656ex34Gws22EfM",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Innentuer-2",
+            "Related_Building_Element_GlobalID": "0pGAjlJMP3ifYPATVF5xAR",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-1",
+            "Related_Building_Element_GlobalID": "2ptk1k7qn8_Qk22vjh$0DE",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Bodenplatte",
+            "Related_Building_Element_GlobalID": "1pPHnf7cXCpPsNEnQf8_6B",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-ERDG-2",
+            "Related_Building_Element_GlobalID": "1bzfVsJqn8De5PukCrqylz",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "EG-Fenster-2",
+            "Related_Building_Element_GlobalID": "2Q9w7oRXP249jBobEMVqlZ",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "2_Buero_2RSCzLOBz4FAK$_wE8VckM": [
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-1",
+            "Related_Building_Element_GlobalID": "2ptk1k7qn8_Qk22vjh$0DE",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-3",
+            "Related_Building_Element_GlobalID": "3jjW3rL656ex34Gws22EfM",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Innentuer-3",
+            "Related_Building_Element_GlobalID": "2qiPPF3FrF8OIqfrKiSUqm",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "Bodenplatte",
+            "Related_Building_Element_GlobalID": "1pPHnf7cXCpPsNEnQf8_6B",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-ERDG-2",
+            "Related_Building_Element_GlobalID": "1bzfVsJqn8De5PukCrqylz",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-ERDG-1",
+            "Related_Building_Element_GlobalID": "3rPX_Juz59peXXY6wDJl18",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "EG-Fenster-1",
+            "Related_Building_Element_GlobalID": "1TAI4ouKX4Xx4lBDZIu5qM",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        {
+            "Related_Building_Element_Name": "EG-Fenster-6",
+            "Related_Building_Element_GlobalID": "1srAI$R4T8ihLXSNHmUSET",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "5_Wohnen_0Lt8gR_E9ESeGH5uY_g9e9": [
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-4",
+            "Related_Building_Element_GlobalID": "2XPyKWY018sA1ygZKgQPtU",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": null,
+            "Related_Building_Element_GlobalID": "2O1epMSyD6ol5XOFRviRIZ",
+            "Related_Building_Element_IFC_Type": "IfcVirtualElement"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": null,
+            "Related_Building_Element_GlobalID": "0wuj6ac_Rv$ZYWzILFrlw0",
+            "Related_Building_Element_IFC_Type": "IfcVirtualElement"
+        },
+        {
+            "Related_Building_Element_Name": "Bodenplatte",
+            "Related_Building_Element_GlobalID": "1pPHnf7cXCpPsNEnQf8_6B",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-ERDG-4",
+            "Related_Building_Element_GlobalID": "16DNNqzfP2thtfaOflvsKA",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-ERDG-3",
+            "Related_Building_Element_GlobalID": "25fsbPyk15VvuXI$yNKenK",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Terrassentuer",
+            "Related_Building_Element_GlobalID": "1M$gxUrX1Fiwe3P64ww7U5",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "EG-Fenster-5",
+            "Related_Building_Element_GlobalID": "3BFcylCsX74PQAoRAe5fNv",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        {
+            "Related_Building_Element_Name": "EG-Fenster-9",
+            "Related_Building_Element_GlobalID": "2EQh_jhP1B_A_AMuSJc5E0",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "1_Flur_3$f2p7VyLB7eox67SA_zKE": [
+        {
+            "Related_Building_Element_Name": null,
+            "Related_Building_Element_GlobalID": "3x5bWRj6N6PhHPHxSQnO1r",
+            "Related_Building_Element_IFC_Type": "IfcVirtualElement"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-5",
+            "Related_Building_Element_GlobalID": "1$wmdwWPjDYuku_ghVkynE",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": null,
+            "Related_Building_Element_GlobalID": "2O1epMSyD6ol5XOFRviRIZ",
+            "Related_Building_Element_IFC_Type": "IfcVirtualElement"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-3",
+            "Related_Building_Element_GlobalID": "3jjW3rL656ex34Gws22EfM",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Innentuer-3",
+            "Related_Building_Element_GlobalID": "2qiPPF3FrF8OIqfrKiSUqm",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-3",
+            "Related_Building_Element_GlobalID": "3jjW3rL656ex34Gws22EfM",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Innentuer-2",
+            "Related_Building_Element_GlobalID": "0pGAjlJMP3ifYPATVF5xAR",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-2",
+            "Related_Building_Element_GlobalID": "3PfS__Y_DBAfq5naM6zD2Z",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Innentuer-1",
+            "Related_Building_Element_GlobalID": "1Oms875aH3Wg$9l65H2ZGw",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Bodenplatte",
+            "Related_Building_Element_GlobalID": "1pPHnf7cXCpPsNEnQf8_6B",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-ERDG-1",
+            "Related_Building_Element_GlobalID": "3rPX_Juz59peXXY6wDJl18",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Haustuer",
+            "Related_Building_Element_GlobalID": "2jTRqchjf7oB0yhQ6462T0",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "6_K\u00fcche_17JZcMFrf5tOftUTidA0d3": [
+        {
+            "Related_Building_Element_Name": null,
+            "Related_Building_Element_GlobalID": "0wuj6ac_Rv$ZYWzILFrlw0",
+            "Related_Building_Element_IFC_Type": "IfcVirtualElement"
+        },
+        {
+            "Related_Building_Element_Name": null,
+            "Related_Building_Element_GlobalID": "3x5bWRj6N6PhHPHxSQnO1r",
+            "Related_Building_Element_IFC_Type": "IfcVirtualElement"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Int-ERDG-5",
+            "Related_Building_Element_GlobalID": "1$wmdwWPjDYuku_ghVkynE",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Bodenplatte",
+            "Related_Building_Element_GlobalID": "1pPHnf7cXCpPsNEnQf8_6B",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-ERDG-4",
+            "Related_Building_Element_GlobalID": "16DNNqzfP2thtfaOflvsKA",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-ERDG-1",
+            "Related_Building_Element_GlobalID": "3rPX_Juz59peXXY6wDJl18",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "EG-Fenster-4",
+            "Related_Building_Element_GlobalID": "25nJxEpYf8LRDJNkMUVO0m",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        {
+            "Related_Building_Element_Name": "EG-Fenster-7",
+            "Related_Building_Element_GlobalID": "0B1RwEzzP3CfME5NR$Vqh5",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "7_Galerie_2dQFggKBb1fOc1CqZDIDlx": [
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "OG-Fenster-2",
+            "Related_Building_Element_GlobalID": "1zOBw0Gej5Wf0QAJfHnOc0",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        {
+            "Related_Building_Element_Name": "Dach-2",
+            "Related_Building_Element_GlobalID": "2IxUUNUVPB6Ob$eicCfP2N",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Dach-1",
+            "Related_Building_Element_GlobalID": "07Enbsqm9C7AQC9iyBwfSD",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "Slab-033",
+            "Related_Building_Element_GlobalID": "2RGlQk4xH47RHK93zcTzUL",
+            "Related_Building_Element_IFC_Type": "IfcSlab"
+        },
+        {
+            "Related_Building_Element_Name": "OG-Fenster-1",
+            "Related_Building_Element_GlobalID": "2ACmFFQhT1Ouf0x4YRUh9m",
+            "Related_Building_Element_IFC_Type": "IfcWindow"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-OG-3",
+            "Related_Building_Element_GlobalID": "3VCarUKgH1buLo22Ozxe6J",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-OG-4",
+            "Related_Building_Element_GlobalID": "3Ttjr$59XEWfWN1WUHjelZ",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-OG-1",
+            "Related_Building_Element_GlobalID": "0knNIAVBPBFvBy_m5QVHsU",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        {
+            "Related_Building_Element_Name": "Wand-Ext-OG-2",
+            "Related_Building_Element_GlobalID": "25OWQvmXj5BPgyergP43tY",
+            "Related_Building_Element_IFC_Type": "IfcWallStandardCase"
+        },
+        "No IfcRelSpaceBoundary relationships."
+    ]
+}

@@ -1,0 +1,5456 @@
+{
+    "1mbghB_uL4ZQnn90r0$Wms": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$WkR": [
+        {
+            "Element Name": "Basic Wall:STB 240:2455108",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55z9"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$WkT": [
+        {
+            "Element Name": "Basic Wall:STB 240:2455108",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55z9"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2455259",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55$M"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$WkN": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "1mbghB_uL4ZQnn90r0$Wk9": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 290:2457884",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5AWH"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wk3": [
+        {
+            "Element Name": "Basic Wall:STB 365:2453773",
+            "Element GlobalID": "1d9XQ9CRPDnAohLRlUPiBy"
+        },
+        {
+            "Element Name": "Wand5:Wand5:2510092",
+            "Element GlobalID": "3pO9r8jdL6quzZl_oVtv8c"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2454357",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55fO"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2455108",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55z9"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2455259",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55$M"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wlq": [
+        {
+            "Element Name": "Basic Wall:STB 365:2453773",
+            "Element GlobalID": "1d9XQ9CRPDnAohLRlUPiBy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2455259",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55$M"
+        },
+        {
+            "Element Name": "Basic Wall:STB 290:2457884",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5AWH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2468694",
+            "Element GlobalID": "0ghLRwN8b8igNQ522pXHcx"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wlk": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2495765",
+            "Element GlobalID": "3_Hr4ik6D37AVOvHir4Y2c"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2561041",
+            "Element GlobalID": "3xH23Z_Jr9mBhRrM1hnzvD"
+        },
+        {
+            "Element Name": "Basic Wall:STB 290:2457884",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5AWH"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wlb": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2496131",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFMpT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2495765",
+            "Element GlobalID": "3_Hr4ik6D37AVOvHir4Y2c"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$WlH": [
+        {
+            "Element Name": "Basic Wall:STB 150:2495765",
+            "Element GlobalID": "3_Hr4ik6D37AVOvHir4Y2c"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2496131",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFMpT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2561041",
+            "Element GlobalID": "3xH23Z_Jr9mBhRrM1hnzvD"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$WlB": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2496251",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFMob"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2561041",
+            "Element GlobalID": "3xH23Z_Jr9mBhRrM1hnzvD"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2496131",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFMpT"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wl4": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 185:2496633",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFM8d"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2561041",
+            "Element GlobalID": "3xH23Z_Jr9mBhRrM1hnzvD"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2496251",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFMob"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wi_": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2497245",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFM23"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2499243",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFLZr"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2546361",
+            "Element GlobalID": "3pChkjpU10nuye4Ei1Y$oC"
+        },
+        {
+            "Element Name": "Basic Wall:STB 185:2496633",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFM8d"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wir": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 400:2497897",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFMSt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2464463",
+            "Element GlobalID": "3nPp2FtCT3gB_lPhwnb9V0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2497245",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFM23"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wil": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2498161",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFMGl"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2464463",
+            "Element GlobalID": "3nPp2FtCT3gB_lPhwnb9V0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 400:2497897",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFMSt"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$WiX": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2461526",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5APR"
+        },
+        {
+            "Element Name": "Wand2:Wand2:2505888",
+            "Element GlobalID": "24pU_nS8XCVekK9P1quE$W"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2464463",
+            "Element GlobalID": "3nPp2FtCT3gB_lPhwnb9V0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2498161",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFMGl"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$WiR": [
+        {
+            "Element Name": "Basic Wall:STB 380:2458649",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5AqK"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2471636",
+            "Element GlobalID": "1TOQDrzyr6Jej5xJiCdKWb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2471944",
+            "Element GlobalID": "1TOQDrzyr6Jej5xJiCdKRv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2562819",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZV8n"
+        },
+        {
+            "Element Name": "C-Wand:C-Wand:2503594",
+            "Element GlobalID": "3Iwq7ksMjAywGKJSMKRyt3"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$WjM": [
+        {
+            "Element Name": "Basic Wall:STB 300:2459739",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5A5M"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2562819",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZV8n"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2471944",
+            "Element GlobalID": "1TOQDrzyr6Jej5xJiCdKRv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2471636",
+            "Element GlobalID": "1TOQDrzyr6Jej5xJiCdKWb"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wj8": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2459739",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5A5M"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2471636",
+            "Element GlobalID": "1TOQDrzyr6Jej5xJiCdKWb"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wc8": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2460090",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5A2t"
+        },
+        {
+            "Element Name": "TRW2:TRW2:2504294",
+            "Element GlobalID": "25MEyJh7rCSQ5IOTlER$w1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2478753",
+            "Element GlobalID": "0kievmOInAk9KhhiHOCBxV"
+        },
+        {
+            "Element Name": "TRW:TRW:2501846",
+            "Element GlobalID": "3Iwq7ksMjAywGKJSMKRzA$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2459739",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5A5M"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wc2": [
+        {
+            "Element Name": "Basic Wall:STB 300:2459739",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5A5M"
+        },
+        {
+            "Element Name": "TRW:TRW:2501846",
+            "Element GlobalID": "3Iwq7ksMjAywGKJSMKRzA$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2478753",
+            "Element GlobalID": "0kievmOInAk9KhhiHOCBxV"
+        },
+        {
+            "Element Name": "TRW2:TRW2:2504294",
+            "Element GlobalID": "25MEyJh7rCSQ5IOTlER$w1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2460090",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5A2t"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2562819",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZV8n"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wd3": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2460609",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5ABC"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2562819",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZV8n"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2460090",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5A2t"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wd5": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2562819",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZV8n"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2460609",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5ABC"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wa$": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2482101",
+            "Element GlobalID": "2zkYoXGWj5KfTlVg4Nx5eR"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2562819",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZV8n"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wan": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 185:2486695",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yU3l"
+        },
+        {
+            "Element Name": "Basic Wall:STB 290:2486310",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yU5k"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2482101",
+            "Element GlobalID": "2zkYoXGWj5KfTlVg4Nx5eR"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wah": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 185:2487936",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUV8"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2563200",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZVMo"
+        },
+        {
+            "Element Name": "Basic Wall:STB 185:2486695",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yU3l"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Waj": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2488276",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUQS"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2563200",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZVMo"
+        },
+        {
+            "Element Name": "Basic Wall:STB 185:2487936",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUV8"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$Wad": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2488440",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUam"
+        },
+        {
+            "Element Name": "TRW3:TRW3:2504884",
+            "Element GlobalID": "25MEyJh7rCSQ5IOTlER$1J"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2488629",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUXz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2488276",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUQS"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$XTe": [
+        {
+            "Element Name": "Basic Wall:STB 150:2488951",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUi$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2489535",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2489788",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUpq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2490511",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yX77"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$XTd": [
+        {
+            "Element Name": "Basic Wall:STB 250:2488276",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUQS"
+        },
+        {
+            "Element Name": "TRW3:TRW3:2504884",
+            "Element GlobalID": "25MEyJh7rCSQ5IOTlER$1J"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2488629",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUXz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2488440",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUam"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2563200",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZVMo"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2488951",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUi$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2490511",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yX77"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2489788",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUpq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2489535",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUtt"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$XTJ": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2490852",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yX2i"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2563200",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZVMo"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2488440",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yUam"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$XTA": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2491267",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgDvi"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2491342",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgDuX"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2491451",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgDdK"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2491624",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgDa7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2491773",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgDYI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2563200",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZVMo"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2490852",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yX2i"
+        }
+    ],
+    "1mbghB_uL4ZQnn90r0$XRS": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2446576",
+            "Element GlobalID": "0zDfnzjsv8GO_YFRY7jWPJ"
+        },
+        {
+            "Element Name": "Wand4:Wand4:2506999",
+            "Element GlobalID": "24pU_nS8XCVekK9P1qu9Et"
+        },
+        {
+            "Element Name": "Basic Wall:STB 330:2447788",
+            "Element GlobalID": "0zDfnzjsv8GO_YFRY7jWiF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 125:2494384",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgD9V"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2491773",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgDYI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2491624",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgDa7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2491451",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgDdK"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2491342",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgDuX"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2491267",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgDvi"
+        }
+    ],
+    "3VNc0igY56DO1d7cikTQRX": [
+        {
+            "Element Name": "Basic Wall:STB 390:2493889",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgD0k"
+        },
+        {
+            "Element Name": "Basic Wall:STB 255:2495394",
+            "Element GlobalID": "3_Hr4ik6D37AVOvHir4YOH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 400:3079085",
+            "Element GlobalID": "08og38$Q11V9Gd90lq6$Ns"
+        },
+        {
+            "Element Name": "Basic Wall:STB 115:2500302",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFLoG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2561041",
+            "Element GlobalID": "3xH23Z_Jr9mBhRrM1hnzvD"
+        },
+        {
+            "Element Name": "Basic Wall:STB 400:2546644",
+            "Element GlobalID": "0YRNfSG9T3DhEV$E8M$5h_"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2563200",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZVMo"
+        },
+        {
+            "Element Name": "Basic Wall:STB 115:2495006",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgC$n"
+        }
+    ],
+    "3VNc0igY56DO1d7cikTQXx": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "3VNc0igY56DO1d7cikTQnM": [
+        {
+            "Element Name": "Basic Wall:STB 365:2453773",
+            "Element GlobalID": "1d9XQ9CRPDnAohLRlUPiBy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 400:3079085",
+            "Element GlobalID": "08og38$Q11V9Gd90lq6$Ns"
+        },
+        {
+            "Element Name": "Basic Wall:STB 255:2495394",
+            "Element GlobalID": "3_Hr4ik6D37AVOvHir4YOH"
+        },
+        {
+            "Element Name": "Wand5:Wand5:2510092",
+            "Element GlobalID": "3pO9r8jdL6quzZl_oVtv8c"
+        },
+        {
+            "Element Name": "Basic Wall:STB 365:3079989",
+            "Element GlobalID": "08og38$Q11V9Gd90lq6$5k"
+        }
+    ],
+    "3VNc0igY56DO1d7cikTQnS": [
+        {
+            "Element Name": "Basic Wall:STB 330:2447788",
+            "Element GlobalID": "0zDfnzjsv8GO_YFRY7jWiF"
+        },
+        {
+            "Element Name": "Wand4:Wand4:2506999",
+            "Element GlobalID": "24pU_nS8XCVekK9P1qu9Et"
+        },
+        {
+            "Element Name": "Basic Wall:STB 500:2450375",
+            "Element GlobalID": "3I4JLWAvT5Gfm5cD7oqqYn"
+        },
+        {
+            "Element Name": "Wand5:Wand5:2510092",
+            "Element GlobalID": "3pO9r8jdL6quzZl_oVtv8c"
+        },
+        {
+            "Element Name": "Basic Wall:STB 365:2453773",
+            "Element GlobalID": "1d9XQ9CRPDnAohLRlUPiBy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 365:3079989",
+            "Element GlobalID": "08og38$Q11V9Gd90lq6$5k"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2493889",
+            "Element GlobalID": "1F2J3uyTH6MxmvmyWDgD0k"
+        }
+    ],
+    "3VNc0igY56DO1d7cikTQtW": [
+        {
+            "Element Name": "Basic Wall:STB 365:2462363",
+            "Element GlobalID": "3nPp2FtCT3gB_lPhwnb9_K"
+        },
+        {
+            "Element Name": "C-Wand 2:C-Wand 2:2504037",
+            "Element GlobalID": "3Iwq7ksMjAywGKJSMKRyiC"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2562819",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZV8n"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2484617",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yVZ1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 115:2484980",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yVky"
+        },
+        {
+            "Element Name": "Basic Wall:STB 290:2486310",
+            "Element GlobalID": "2RK6R2IHT2mx15rRI3yU5k"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2563200",
+            "Element GlobalID": "161sjIjGf4OAikfK76ZVMo"
+        },
+        {
+            "Element Name": "Basic Wall:STB 400:2546644",
+            "Element GlobalID": "0YRNfSG9T3DhEV$E8M$5h_"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2561041",
+            "Element GlobalID": "3xH23Z_Jr9mBhRrM1hnzvD"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2546361",
+            "Element GlobalID": "3pChkjpU10nuye4Ei1Y$oC"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2499243",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFLZr"
+        },
+        {
+            "Element Name": "Basic Wall:STB 115:2498673",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFLel"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2498422",
+            "Element GlobalID": "1yLOGpMX56lArxd1wiFMKe"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2464463",
+            "Element GlobalID": "3nPp2FtCT3gB_lPhwnb9V0"
+        },
+        {
+            "Element Name": "Wand3:Wand3:2506454",
+            "Element GlobalID": "24pU_nS8XCVekK9P1quEsM"
+        }
+    ],
+    "3Szq9NZ5b6lANK8wF7Tbi2": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        }
+    ],
+    "2KZh_c4PX51hcyoLNAG3kA": [
+        {
+            "Element Name": "Basic Wall:STB 380:2635254",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwH8"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2640072",
+            "Element GlobalID": "2YZsRZoZb85BisLWWnD2uZ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2640310",
+            "Element GlobalID": "2YZsRZoZb85BisLWWnD2zT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2638142",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLIc"
+        }
+    ],
+    "2KZh_c4PX51hcyoLNAG3kD": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "2KZh_c4PX51hcyoLNAG3kX": [
+        {
+            "Element Name": "Basic Wall:STB 300:2645024",
+            "Element GlobalID": "3Szq9NZ5b6lANK8wF7TbZW"
+        }
+    ],
+    "1_LQ$EaFn3cAHjyu1GbA6W": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2647774",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA1m"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2645024",
+            "Element GlobalID": "3Szq9NZ5b6lANK8wF7TbZW"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2644455",
+            "Element GlobalID": "3Szq9NZ5b6lANK8wF7Tbqd"
+        }
+    ],
+    "0WFrv2PrD9tuny4MA5wuiT": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2636189",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwWZ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649791",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAWH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649690",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAZq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650116",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBQg"
+        }
+    ],
+    "0WFrv2PrD9tuny4MA5wuiQ": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650116",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBQg"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650217",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBR7"
+        }
+    ],
+    "0WFrv2PrD9tuny4MA5wuiN": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650217",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBR7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650284",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBO2"
+        }
+    ],
+    "0WFrv2PrD9tuny4MA5wubk": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650284",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBO2"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650364",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBPI"
+        }
+    ],
+    "0WFrv2PrD9tuny4MA5wubh": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650364",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBPI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650470",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBV8"
+        }
+    ],
+    "0WFrv2PrD9tuny4MA5wube": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650470",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBV8"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650538",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBS4"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwBdN": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650538",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBS4"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2686403",
+            "Element GlobalID": "0A61UaGGT6JRqVsSAwwBdp"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwBdQ": [
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2686403",
+            "Element GlobalID": "0A61UaGGT6JRqVsSAwwBdp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2650538",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbBS4"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwBdT": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2686403",
+            "Element GlobalID": "0A61UaGGT6JRqVsSAwwBdp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2686260",
+            "Element GlobalID": "0A61UaGGT6JRqVsSAwwBa4"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649001",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAq7"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwBd0": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649001",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAq7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649099",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAgb"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwBd3": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649099",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAgb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648733",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAmp"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwLG9": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648733",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAmp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648454",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAye"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648357",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA_B"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648327",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA_f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649179",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAhr"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648577",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAol"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwLGC": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648577",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAol"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648327",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA_f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649335",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAfP"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwLVp": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649335",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAfP"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648327",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA_f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649262",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAe0"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwLVs": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649262",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAe0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648327",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA_f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649427",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAlz"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwL8L": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649427",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAlz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648327",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA_f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648080",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAw_"
+        }
+    ],
+    "0A61UaGGT6JRqVsSAwwL8O": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648080",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAw_"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648327",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA_f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2647774",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA1m"
+        }
+    ],
+    "26LN5EJ5vAHwFZhEp03__D": [
+        {
+            "Element Name": "Basic Wall:STB 380:2636189",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwWZ"
+        },
+        {
+            "Element Name": "Zusatz 6:Zusatz 6:2694362",
+            "Element GlobalID": "0A61UaGGT6JRqVsSAwwLZg"
+        },
+        {
+            "Element Name": "Zusatz 7:Zusatz 7:2695219",
+            "Element GlobalID": "0A61UaGGT6JRqVsSAwwMG3"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2638142",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLIc"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649690",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAZq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2649791",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAWH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2649952",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAdE"
+        }
+    ],
+    "26LN5EJ5vAHwFZhEp03__A": [
+        {
+            "Element Name": "Basic Wall:STB 285:2638142",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLIc"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2645024",
+            "Element GlobalID": "3Szq9NZ5b6lANK8wF7TbZW"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648327",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA_f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648357",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbA_B"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648454",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAye"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648733",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAmp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2648921",
+            "Element GlobalID": "1_LQ$EaFn3cAHjyu1GbAtt"
+        }
+    ],
+    "0F3XE5P3DDSv_d5Madgnpk": [
+        {
+            "Element Name": "Basic Wall:STB 285:2638142",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLIc"
+        },
+        {
+            "Element Name": "Zusatz 7:Zusatz 7:2695219",
+            "Element GlobalID": "0A61UaGGT6JRqVsSAwwMG3"
+        },
+        {
+            "Element Name": "St\u00fctzen 1. OG:St\u00fctzen 1. OG:2699296",
+            "Element GlobalID": "26LN5EJ5vAHwFZhEp03$uV"
+        },
+        {
+            "Element Name": "Wandzusatz:Wandzusatz:2699981",
+            "Element GlobalID": "0F3XE5P3DDSv_d5MadgndC"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2700400",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnzn"
+        }
+    ],
+    "0F3XE5P3DDSv_d5Madgsa3": [
+        {
+            "Element Name": "Basic Wall:STB 285:2638142",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLIc"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2700400",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnzn"
+        },
+        {
+            "Element Name": "St\u00fctzen 2:St\u00fctzen 2:2701293",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnpi"
+        },
+        {
+            "Element Name": "St\u00fctzen 3:St\u00fctzen 3:2703872",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgsa1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2702009",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgn6u"
+        },
+        {
+            "Element Name": "St\u00fctzen 1. OG:St\u00fctzen 1. OG:2699296",
+            "Element GlobalID": "26LN5EJ5vAHwFZhEp03$uV"
+        },
+        {
+            "Element Name": "St\u00fctzen 4:St\u00fctzen 4:2704143",
+            "Element GlobalID": "0F3XE5P3DDSv_d5MadgsWE"
+        }
+    ],
+    "0F3XE5P3DDSv_d5Madgszn": [
+        {
+            "Element Name": "Basic Wall:STB 285:2638142",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLIc"
+        },
+        {
+            "Element Name": "St\u00fctzen 1. OG:St\u00fctzen 1. OG:2699296",
+            "Element GlobalID": "26LN5EJ5vAHwFZhEp03$uV"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2702009",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgn6u"
+        },
+        {
+            "Element Name": "St\u00fctzen 3:St\u00fctzen 3:2703872",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgsa1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2700400",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnzn"
+        }
+    ],
+    "0LENlZh35D69Qzy6rexYTF": [
+        {
+            "Element Name": "Basic Wall:STB 285:2638142",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLIc"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2700400",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnzn"
+        },
+        {
+            "Element Name": "St\u00fctzen 3:St\u00fctzen 3:2703872",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgsa1"
+        },
+        {
+            "Element Name": "St\u00fctzen 1. OG:St\u00fctzen 1. OG:2699296",
+            "Element GlobalID": "26LN5EJ5vAHwFZhEp03$uV"
+        }
+    ],
+    "0LENlZh35D69Qzy6rexYhC": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2639385",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLE1"
+        },
+        {
+            "Element Name": "St\u00fctzen 3:St\u00fctzen 3:2703872",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgsa1"
+        }
+    ],
+    "35B4ZKBsb6N8T23IWym46a": [
+        {
+            "Element Name": "Basic Wall:STB 500:2634819",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwNz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2638142",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLIc"
+        },
+        {
+            "Element Name": "St\u00fctzen 3:St\u00fctzen 3:2703872",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgsa1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2639385",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLE1"
+        },
+        {
+            "Element Name": "Schwung 1. OG:Schwung 1. OG:2706284",
+            "Element GlobalID": "35B4ZKBsb6N8T23IWym452"
+        }
+    ],
+    "35B4ZKBsb6N8T23IWym4Gb": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "St\u00fctzen 3:St\u00fctzen 3:2703872",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgsa1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2700400",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnzn"
+        }
+    ],
+    "3xvb7qt6L3axh4CeKhTAZI": [
+        {
+            "Element Name": "Wandsystem 1. OG:Wandsystem 1. OG:2708803",
+            "Element GlobalID": "35B4ZKBsb6N8T23IWym5zj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:3076717",
+            "Element GlobalID": "0W4jBZGp1B88T7$Zl5xzWn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:3077207",
+            "Element GlobalID": "2eCNYA6Cf1VPnLzmYlvnLN"
+        }
+    ],
+    "3xvb7qt6L3axh4CeKhTAdE": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG:Wandsystem 1. OG:2708803",
+            "Element GlobalID": "35B4ZKBsb6N8T23IWym5zj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:3076717",
+            "Element GlobalID": "0W4jBZGp1B88T7$Zl5xzWn"
+        }
+    ],
+    "3xvb7qt6L3axh4CeKhTAd5": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG:Wandsystem 1. OG:2708803",
+            "Element GlobalID": "35B4ZKBsb6N8T23IWym5zj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2709497",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteUE"
+        }
+    ],
+    "3xvb7qt6L3axh4CeKhTAdS": [
+        {
+            "Element Name": "Basic Wall:STB 285:2700400",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnzn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:3077207",
+            "Element GlobalID": "2eCNYA6Cf1VPnLzmYlvnLN"
+        }
+    ],
+    "3xvb7qt6L3axh4CeKhTAfE": [
+        {
+            "Element Name": "Wandsystem 1. OG:Wandsystem 1. OG:2708803",
+            "Element GlobalID": "35B4ZKBsb6N8T23IWym5zj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:3090545",
+            "Element GlobalID": "37YpOTh7bEnRuV_vNvVz67"
+        }
+    ],
+    "3xvb7qt6L3axh4CeKhTAf5": [
+        {
+            "Element Name": "Basic Wall:STB 285:2700400",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnzn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709678",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteZP"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2709497",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteUE"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG:Wandsystem 1. OG:2708803",
+            "Element GlobalID": "35B4ZKBsb6N8T23IWym5zj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:3077207",
+            "Element GlobalID": "2eCNYA6Cf1VPnLzmYlvnLN"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:3090545",
+            "Element GlobalID": "37YpOTh7bEnRuV_vNvVz67"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKH1C": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2709497",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteUE"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709678",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteZP"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709913",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetedk"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKH19": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709913",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetedk"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709678",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteZP"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709861",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteaI"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKH16": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709861",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteaI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709678",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteZP"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709799",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetebG"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKH1T": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709799",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetebG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709678",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteZP"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2710648",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetemF"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKH1Q": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2710333",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetejA"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710037",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetefY"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710273",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetejs"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKH1N": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710273",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetejs"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710037",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetefY"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710222",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetegv"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKH2k": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710222",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetegv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710037",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetefY"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710167",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetehW"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKH2h": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710167",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetehW"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710037",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetefY"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710104",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteel"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKH2e": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710104",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteel"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710037",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetefY"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2710832",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeter7"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKH2$": [
+        {
+            "Element Name": "Basic Wall:STB 285:2700400",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnzn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2710037",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyetefY"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2709678",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteZP"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKHaZ": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2710832",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeter7"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG:Wandsystem 1. OG:2708803",
+            "Element GlobalID": "35B4ZKBsb6N8T23IWym5zj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2711158",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteu1"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKHax": [
+        {
+            "Element Name": "Basic Wall:STB 3984:2638822",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLP_"
+        },
+        {
+            "Element Name": "Basic Wall:STB 290:2712117",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeth92"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2711158",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeteu1"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG:Wandsystem 1. OG:2708803",
+            "Element GlobalID": "35B4ZKBsb6N8T23IWym5zj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2710832",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeter7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2700400",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnzn"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKHl0": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKHlT": [
+        {
+            "Element Name": "Basic Wall:STB 290:2712117",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeth92"
+        }
+    ],
+    "21yalNJRf3m8G9p3kOKHlQ": [
+        {
+            "Element Name": "Basic Wall:STB 290:2712117",
+            "Element GlobalID": "0TiGTKMgb1e8m$FHyeth92"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR8c": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR8_": [
+        {
+            "Element Name": "Basic Wall:STB 290:2736265",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPM49"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR8p": [
+        {
+            "Element Name": "Basic Wall:STB 290:2736265",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPM49"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR80": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2739834",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPM$w"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG1:Wandsystem 1. OG:2739315",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMtp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2736326",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPM56"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR8P": [
+        {
+            "Element Name": "Basic Wall:STB 3984:2735787",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHyh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 290:2736265",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPM49"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2736326",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPM56"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG1:Wandsystem 1. OG:2739315",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMtp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2739834",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPM$w"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR8I": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2740411",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9veR"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2740037",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9uNb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2739834",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPM$w"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR8N": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2740468",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vfK"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2740037",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9uNb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2740411",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9veR"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR8K": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2741307",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vwR"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2740037",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9uNb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2740468",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vfK"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR9f": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2741348",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vx4"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2740037",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9uNb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2741307",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vwR"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR9k": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2741382",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vuc"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2740037",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9uNb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2741348",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vx4"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR9x": [
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2740037",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9uNb"
+        },
+        {
+            "Element Name": "St\u00fctzen 1:St\u00fctzen 2:2739001",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMgv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2743223",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9v4N"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR9y": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2743358",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vQU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2743223",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9v4N"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2741419",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vuB"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR9n": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2743453",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vOz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2743223",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9v4N"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2743358",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vQU"
+        }
+    ],
+    "0F37xYE592qQfysR6XFR9s": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2743792",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vTG"
+        },
+        {
+            "Element Name": "St\u00fctzen 1:St\u00fctzen 2:2739001",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMgv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2743223",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9v4N"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2743453",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vOz"
+        }
+    ],
+    "0F37xYE592qQfysR6XFRl7": [
+        {
+            "Element Name": "Wandsystem 1. OG1:Wandsystem 1. OG:2739315",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMtp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:3090797",
+            "Element GlobalID": "3LSZjRJGH9IxZcstBmEn7Y"
+        }
+    ],
+    "0F37xYE592qQfysR6XFRl4": [
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        },
+        {
+            "Element Name": "St\u00fctzen 1:St\u00fctzen 2:2739001",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMgv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2743792",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vTG"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG1:Wandsystem 1. OG:2739315",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMtp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:3090797",
+            "Element GlobalID": "3LSZjRJGH9IxZcstBmEn7Y"
+        }
+    ],
+    "0F37xYE592qQfysR6XFRnj": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2747301",
+            "Element GlobalID": "0F37xYE592qQfysR6XFRgE"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG1:Wandsystem 1. OG:2739315",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMtp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2743792",
+            "Element GlobalID": "3OM0jzja599g5jUVMG9vTG"
+        }
+    ],
+    "0zxhb1jwvFrB4v09aU$wcp": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:3091085",
+            "Element GlobalID": "3LSZjRJGH9IxZcstBmEn82"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG1:Wandsystem 1. OG:2739315",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMtp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2747301",
+            "Element GlobalID": "0F37xYE592qQfysR6XFRgE"
+        }
+    ],
+    "0zxhb1jwvFrB4v09aU$wTM": [
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:3091085",
+            "Element GlobalID": "3LSZjRJGH9IxZcstBmEn82"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG1:Wandsystem 1. OG:2739315",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMtp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 185:2750612",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$wRQ"
+        }
+    ],
+    "0zxhb1jwvFrB4v09aU$5fL": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2750850",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$wVC"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 185:2750612",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$wRQ"
+        },
+        {
+            "Element Name": "Wandsystem 1. OG1:Wandsystem 1. OG:2739315",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMtp"
+        }
+    ],
+    "0zxhb1jwvFrB4v09aU$5Oe": [
+        {
+            "Element Name": "Basic Wall:STB 380:2732803",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuV8"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2754295",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5Yv"
+        },
+        {
+            "Element Name": "St\u00fctzen 6:St\u00fctzen 3:2755083",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5H5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2750850",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$wVC"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        }
+    ],
+    "0zxhb1jwvFrB4v09aU$5Om": [
+        {
+            "Element Name": "Zusatz 10:Zusatz 7:2734964",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHhq"
+        },
+        {
+            "Element Name": "St\u00fctzen 1. OG1:St\u00fctzen 1. OG:2735269",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHqb"
+        },
+        {
+            "Element Name": "Wandzusatz1:Wandzusatz:2735759",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHyF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735441",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHpH"
+        }
+    ],
+    "0zxhb1jwvFrB4v09aU$5Nm": [
+        {
+            "Element Name": "St\u00fctzen 1. OG1:St\u00fctzen 1. OG:2735269",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHqb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735441",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHpH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        },
+        {
+            "Element Name": "St\u00fctzen 1:St\u00fctzen 2:2739001",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPMgv"
+        },
+        {
+            "Element Name": "St\u00fctzen 5:St\u00fctzen 4:2754712",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5RM"
+        }
+    ],
+    "0zxhb1jwvFrB4v09aU$5B3": [
+        {
+            "Element Name": "St\u00fctzen 1. OG1:St\u00fctzen 1. OG:2735269",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHqb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2754780",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5QI"
+        },
+        {
+            "Element Name": "St\u00fctzen 6:St\u00fctzen 3:2755083",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5H5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735441",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHpH"
+        }
+    ],
+    "0zxhb1jwvFrB4v09aU$5BQ": [
+        {
+            "Element Name": "St\u00fctzen 1. OG1:St\u00fctzen 1. OG:2735269",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHqb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735441",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHpH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        },
+        {
+            "Element Name": "St\u00fctzen 6:St\u00fctzen 3:2755083",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5H5"
+        }
+    ],
+    "0zxhb1jwvFrB4v09aU$56Z": [
+        {
+            "Element Name": "Schwung 1. OG1:Schwung 1. OG:2755769",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5Bt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 500:2732657",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuQw"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735441",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHpH"
+        },
+        {
+            "Element Name": "St\u00fctzen 6:St\u00fctzen 3:2755083",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5H5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2754295",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5Yv"
+        }
+    ],
+    "1g6W00HvrA4QIi3g9BlU9L": [
+        {
+            "Element Name": "Basic Wall:STB 380:2732615",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuQC"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2756615",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUAx"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2756665",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUA5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735441",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHpH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 500:2732657",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuQw"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0Z": [
+        {
+            "Element Name": "Basic Wall:STB 380:2734728",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuv3"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757011",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUCl"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757035",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUCN"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757152",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU2S"
+        },
+        {
+            "Element Name": "Zusatz 14:Zusatz 14:2759886",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUvo"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0_": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757333",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU1f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757807",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUOJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Zusatz 14:Zusatz 14:2759886",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUvo"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0z": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757904",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUUi"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757807",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUOJ"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0u": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757974",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUVg"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757904",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUUi"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0t": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758045",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUSX"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757974",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUVg"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0o": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758267",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUJ7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758045",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUSX"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0n": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758361",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUHb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758267",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUJ7"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0C": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758452",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUM8"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2761219",
+            "Element GlobalID": "1Xj1LpTKn0hwDOnO9U2tMj"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0B": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758546",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUKk"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758452",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUM8"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t06": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758629",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlULP"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758546",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUKk"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t05": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758699",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUgN"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758629",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlULP"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t00": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758791",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUex"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758699",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUgN"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0V": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758873",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUfb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758791",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUex"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0Q": [
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758949",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUkP"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2758873",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUfb"
+        }
+    ],
+    "1Xj1LpTKn0hwDOnO9U2t0P": [
+        {
+            "Element Name": "Basic Wall:STB 130:2758949",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUkP"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2762432",
+            "Element GlobalID": "1Xj1LpTKn0hwDOnO9U2t5k"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2759045",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUiv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        }
+    ],
+    "1oOHG9BYLALgyf4W65_0tR": [
+        {
+            "Element Name": "Basic Wall:STB 380:2734728",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuv3"
+        },
+        {
+            "Element Name": "Zusatz 9:Zusatz 6:2734853",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeu$E"
+        },
+        {
+            "Element Name": "Zusatz 10:Zusatz 7:2734964",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHhq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735441",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHpH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757333",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU1f"
+        },
+        {
+            "Element Name": "Zusatz 14:Zusatz 14:2759886",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUvo"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757216",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU3S"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757152",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU2S"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757035",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUCN"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757011",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUCl"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2756950",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUFg"
+        }
+    ],
+    "1oOHG9BYLALgyf4W65_0sY": [
+        {
+            "Element Name": "Basic Wall:STB 285:2735441",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHpH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2762432",
+            "Element GlobalID": "1Xj1LpTKn0hwDOnO9U2t5k"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2757583",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlU5p"
+        }
+    ],
+    "17FR6kbm12Fh$2pzlWJopg": [
+        {
+            "Element Name": "Basic Wall:STB 240:2756665",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUA5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2762432",
+            "Element GlobalID": "1Xj1LpTKn0hwDOnO9U2t5k"
+        }
+    ],
+    "17FR6kbm12Fh$2pzlWJopL": [
+        {
+            "Element Name": "Basic Wall:STB 240:2756615",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUAx"
+        }
+    ],
+    "17FR6kbm12Fh$2pzlWJopG": [
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        }
+    ],
+    "3gkGN3cIn3GfW4n5S$83JM": [
+        {
+            "Element Name": "Basic Wall:STB 400:2777385",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$aI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2778676",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$uF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2778606",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$tL"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        }
+    ],
+    "3gkGN3cIn3GfW4n5S$8Cv7": [
+        {
+            "Element Name": "Basic Wall:STB 400:2777385",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$aI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 460:2779570",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$82L$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2784429",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$831W"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2784948",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$839v"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2785071",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$83FY"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2785506",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$8Cml"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2778606",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$tL"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2778676",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$uF"
+        }
+    ],
+    "3gkGN3cIn3GfW4n5S$8CvS": [
+        {
+            "Element Name": "Basic Wall:STB 460:2779570",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$82L$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2785506",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$8Cml"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2785071",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$83FY"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2784948",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$839v"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2784429",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$831W"
+        }
+    ],
+    "3gkGN3cIn3GfW4n5S$8CvK": [
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2785506",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$8Cml"
+        },
+        {
+            "Element Name": "Basic Wall:STB 460:2779570",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$82L$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2785819",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$8CxM"
+        }
+    ],
+    "38RoHrNHD4s9pDdqsfxWWs": [
+        {
+            "Element Name": "1. UG Maschinenfundamente:1. UG Maschinenfundamente:2842646",
+            "Element GlobalID": "1NlgeWqnbEgAJrf$5_aReB"
+        },
+        {
+            "Element Name": "1. UG Maschinenfundament 2:1. UG Maschinenfundament 2:2842693",
+            "Element GlobalID": "1NlgeWqnbEgAJrf$5_aRfO"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2785819",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$8CxM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 460:2779570",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$82L$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2786784",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxWRp"
+        }
+    ],
+    "38RoHrNHD4s9pDdqsfxWWx": [
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2786784",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxWRp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 460:2779570",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$82L$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2787153",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxWH2"
+        }
+    ],
+    "38RoHrNHD4s9pDdqsfxXU0": [
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2787153",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxWH2"
+        },
+        {
+            "Element Name": "Basic Wall:STB 460:2779570",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$82L$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2790290",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxX21"
+        }
+    ],
+    "38RoHrNHD4s9pDdqsfxXGU": [
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2790290",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxX21"
+        },
+        {
+            "Element Name": "Basic Wall:STB 460:2779570",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$82L$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 450:2790748",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxXPF"
+        }
+    ],
+    "38RoHrNHD4s9pDdqsfxXcU": [
+        {
+            "Element Name": "Basic Wall:STB 460:2779853",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$82O0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 115:2794036",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7g7j"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2792382",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxXYj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2791362",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxXJH"
+        }
+    ],
+    "2TpMrZtWH87h5bxc1$7gPs": [
+        {
+            "Element Name": "Basic Wall:STB 460:2779853",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$82O0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 460:2779973",
+            "Element GlobalID": "3gkGN3cIn3GfW4n5S$82U8"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2792382",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxXYj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 115:2794036",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7g7j"
+        }
+    ],
+    "2TpMrZtWH87h5bxc1$7gdw": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2795225",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gK0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2795484",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gG5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2795601",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gk8"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2795662",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gjN"
+        }
+    ],
+    "2TpMrZtWH87h5bxc1$7gYT": [
+        {
+            "Element Name": "Basic Wall:STB 350:2773389",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQycs"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2796165",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gbS"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2795484",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gG5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2795225",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gK0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 450:2773595",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyfW"
+        }
+    ],
+    "2TpMrZtWH87h5bxc1$7h6R": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774234",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQypX"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2797665",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7hEu"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2796829",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gx4"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2796631",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7g_E"
+        }
+    ],
+    "1DnvVeeKfA_fQrve48aVQR": [
+        {
+            "Element Name": "Basic Wall:STB 400:2798713",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7hUW"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2799156",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aPQx"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2799685",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aPZA"
+        },
+        {
+            "Element Name": "Basic Wall:STB 400:2799967",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aPdG"
+        },
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2799442",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aPVT"
+        }
+    ],
+    "1DnvVeeKfA_fQrve48aVPO": [
+        {
+            "Element Name": "Basic Wall:STB 300:2797665",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7hEu"
+        },
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 400:2799967",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aPdG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2799685",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aPZA"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2799156",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aPQx"
+        },
+        {
+            "Element Name": "Basic Wall:STB 400:2798316",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7h4r"
+        }
+    ],
+    "1e_JEEGobCE9lfcpAlgIrD": [
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2808012",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVX3"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2807659",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVVa"
+        }
+    ],
+    "1ZGwSlBKX1fhx$quWqkpIv": [
+        {
+            "Element Name": "Basic Wall:STB 450:2771780",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQzD$"
+        }
+    ],
+    "1ZGwSlBKX1fhx$quWqkpa6": [
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2820755",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpXW"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2820160",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpgp"
+        }
+    ],
+    "1ZGwSlBKX1fhx$quWqkoAI": [
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2821730",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpoH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2821254",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpvr"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2820755",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpXW"
+        }
+    ],
+    "1ZGwSlBKX1fhx$quWqko3I": [
+        {
+            "Element Name": "Basic Wall:STB 450:2771780",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQzD$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2820160",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpgp"
+        },
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2820755",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpXW"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2773389",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQycs"
+        }
+    ],
+    "1ZGwSlBKX1fhx$quWqko3N": [
+        {
+            "Element Name": "Basic Wall:STB 350:2773389",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQycs"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2820755",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpXW"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2821254",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpvr"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2821730",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpoH"
+        },
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        }
+    ],
+    "0PGOXOdgzC0unapdvJZ0A3": [
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:3085357",
+            "Element GlobalID": "37YpOTh7bEnRuV_vNvV_tR"
+        }
+    ],
+    "0PGOXOdgzC0unapdvJZ0A0": [
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2823509",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ09w"
+        }
+    ],
+    "0PGOXOdgzC0unapdvJZ0ke": [
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2824920",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0tt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2824667",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0xq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2825008",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0mV"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2825132",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0o3"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2825181",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0po"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2824128",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ03l"
+        }
+    ],
+    "0PGOXOdgzC0unapdvJZ3Nh": [
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2825619",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0gy"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0XZx6": [
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2827598",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ39X"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0XZvz": [
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "1. UG Zusatz:1. UG Zusatz:2807104",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVNF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:3085357",
+            "Element GlobalID": "37YpOTh7bEnRuV_vNvV_tR"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2823509",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ09w"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2824128",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ03l"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2824667",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0xq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2824390",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0$f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2825710",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0h1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2825619",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0gy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2825490",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ0ez"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2792382",
+            "Element GlobalID": "38RoHrNHD4s9pDdqsfxXYj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2799442",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aPVT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 400:2799967",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aPdG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2807659",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVVa"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2807925",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVZw"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2808012",
+            "Element GlobalID": "1DnvVeeKfA_fQrve48aVX3"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2797665",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7hEu"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2832945",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ2qU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2828335",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ3y0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2827753",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ3B6"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2827598",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ39X"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2827420",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ3Ep"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2821730",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkpoH"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0XZvq": [
+        {
+            "Element Name": "Basic Wall:STB 350:2773389",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQycs"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2828335",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ3y0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2828668",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ3vJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2795601",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gk8"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2795484",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gG5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2796165",
+            "Element GlobalID": "2TpMrZtWH87h5bxc1$7gbS"
+        },
+        {
+            "Element Name": "1. UG Maschinenfundamente 3:1. UG Maschinenfundamente 3:2842792",
+            "Element GlobalID": "1NlgeWqnbEgAJrf$5_aRgr"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0Xa8I": [
+        {
+            "Element Name": "Basic Wall:STB 160:2834914",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0Xa0k"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2834952",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaF4"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2834984",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaFa"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2835256",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaBq"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0XaNd": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2828668",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ3vJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2828880",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ3r$"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0XaNY": [
+        {
+            "Element Name": "Basic Wall:STB 300:2828668",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ3vJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2832945",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ2qU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2828880",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ3r$"
+        },
+        {
+            "Element Name": "1. UG Zusatz 4:1. UG Zusatz 4:2834792",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0Xa2a"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2834914",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0Xa0k"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2835256",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaBq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2834984",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaFa"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2834952",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaF4"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0XaJ$": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2828880",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ3r$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2832945",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ2qU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 185:2835688",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaKa"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0XacO": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 185:2835688",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaKa"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2832945",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ2qU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 720:2836358",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaPA"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0XaW6": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 720:2836358",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaPA"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2832945",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ2qU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2836825",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaYL"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0Xakc": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2836825",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XaYL"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2832945",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ2qU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2838953",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0Xb1b"
+        }
+    ],
+    "0BZD7xrIL3h80Kncn0Xb8j": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2838953",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0Xb1b"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2832945",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ2qU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2838449",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0Xavz"
+        }
+    ],
+    "1NlgeWqnbEgAJrf$5_aO8n": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2838449",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0Xavz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2839934",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XbIo"
+        }
+    ],
+    "1NlgeWqnbEgAJrf$5_aO8o": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774234",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQypX"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2839696",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XbLS"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2839934",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XbIo"
+        },
+        {
+            "Element Name": "1. UG Zusatz 5:1. UG Zusatz 5:2840540",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XbOG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2838449",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0Xavz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2832945",
+            "Element GlobalID": "0PGOXOdgzC0unapdvJZ2qU"
+        }
+    ],
+    "1NlgeWqnbEgAJrf$5_aO7$": [
+        {
+            "Element Name": "Basic Wall:STB 450:2774047",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQyma"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2839696",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XbLS"
+        }
+    ],
+    "1NlgeWqnbEgAJrf$5_aO7u": [
+        {
+            "Element Name": "Basic Wall:STB 130:2839696",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XbLS"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2839769",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XbKL"
+        }
+    ],
+    "1NlgeWqnbEgAJrf$5_aO7r": [
+        {
+            "Element Name": "Basic Wall:STB 130:2839769",
+            "Element GlobalID": "0BZD7xrIL3h80Kncn0XbKL"
+        }
+    ],
+    "3ZUF3lqZbE_R_xCXUt8vqh": [
+        {
+            "Element Name": "Basic Wall:STB 450:2850730",
+            "Element GlobalID": "1NlgeWqnbEgAJrf$5_aQMt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 450:2852792",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8uJA"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2857504",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8vbI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2857331",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8ve1"
+        }
+    ],
+    "3ZUF3lqZbE_R_xCXUt8vql": [
+        {
+            "Element Name": "Basic Wall:STB 450:2852792",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8uJA"
+        },
+        {
+            "Element Name": "Basic Wall:STB 450:2852899",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8ujH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2857331",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8ve1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2857504",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8vbI"
+        }
+    ],
+    "3ZUF3lqZbE_R_xCXUt8vqI": [
+        {
+            "Element Name": "Basic Wall:STB 450:2850730",
+            "Element GlobalID": "1NlgeWqnbEgAJrf$5_aQMt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2857331",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8ve1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2857623",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8vdb"
+        }
+    ],
+    "3ZUF3lqZbE_R_xCXUt8wCR": [
+        {
+            "Element Name": "Basic Wall:STB 450:2850730",
+            "Element GlobalID": "1NlgeWqnbEgAJrf$5_aQMt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2857623",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8vdb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2857331",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8ve1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 450:2852899",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8ujH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 450:2852419",
+            "Element GlobalID": "3ZUF3lqZbE_R_xCXUt8uKn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 450:2850980",
+            "Element GlobalID": "1NlgeWqnbEgAJrf$5_aLgv"
+        }
+    ],
+    "2onNBYzg9DgesTvnZK8cMa": [
+        {
+            "Element Name": "Basic Wall:STB 350:2861613",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8d2j"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2864492",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8c$i"
+        },
+        {
+            "Element Name": "Basic Wall:STB 450:2861820",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8d1y"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2861750",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8d0s"
+        }
+    ],
+    "2onNBYzg9DgesTvnZK8cLn": [
+        {
+            "Element Name": "Basic Wall:STB 450:2862141",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8dQz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2864492",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8c$i"
+        },
+        {
+            "Element Name": "2. UG W\u00e4nde 2:2. UG W\u00e4nde 2:2865908",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8c1q"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2862301",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8dPT"
+        }
+    ],
+    "2onNBYzg9DgesTvnZK8Xar": [
+        {
+            "Element Name": "Basic Wall:STB 350:2861613",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8d2j"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2862301",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8dPT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 365:3081744",
+            "Element GlobalID": "34tzmywLnAiAU4ZoTkoBht"
+        },
+        {
+            "Element Name": "2. UG W\u00e4nde 2:2. UG W\u00e4nde 2:2865908",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8c1q"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2864247",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8cxt"
+        }
+    ],
+    "2onNBYzg9DgesTvnZK8Xau": [
+        {
+            "Element Name": "Basic Wall:STB 350:2861613",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8d2j"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2864247",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8cxt"
+        },
+        {
+            "Element Name": "2. UG W\u00e4nde 2:2. UG W\u00e4nde 2:2865908",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8c1q"
+        },
+        {
+            "Element Name": "Basic Wall:STB 365:3081744",
+            "Element GlobalID": "34tzmywLnAiAU4ZoTkoBht"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2862301",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8dPT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2864492",
+            "Element GlobalID": "2onNBYzg9DgesTvnZK8c$i"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epThs": [
+        {
+            "Element Name": "Basic Wall:STB 0250:2909267",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSVh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2909984",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSIO"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911089",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSZ9"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911137",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSWP"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911172",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSXy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2910468",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSgy"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epTho": [
+        {
+            "Element Name": "Basic Wall:STB 160:2909984",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSIO"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2910047",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSJd"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2910468",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSgy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911315",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS$h"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911269",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS_T"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911245",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS_r"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epThF": [
+        {
+            "Element Name": "Basic Wall:STB 250:2876647",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsu5I"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2909368",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSS0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2909267",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSVh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2910468",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSgy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2910570",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcShI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2910924",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSbq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2909486",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSQM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2909402",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSTY"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epTga": [
+        {
+            "Element Name": "Basic Wall:STB 380:2876018",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuV7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2910570",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcShI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2910468",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSgy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2910047",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSJd"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2909716",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSMi"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911421",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSy5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911545",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSw1"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSQ9": [
+        {
+            "Element Name": "Basic Wall:STB 150:2914601",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfSG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914731",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfUI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2919538",
+            "Element GlobalID": "2$5Q5d1cv7IBTYgE9epTuV"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914663",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfTU"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSQA": [
+        {
+            "Element Name": "Basic Wall:STB 260:2877285",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuBG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914663",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfTU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2919538",
+            "Element GlobalID": "2$5Q5d1cv7IBTYgE9epTuV"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914731",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfUI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914771",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfVg"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914850",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfGR"
+        },
+        {
+            "Element Name": "Basic Wall:STB 190:2913692",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfkb"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZW": [
+        {
+            "Element Name": "Basic Wall:STB 190:2913692",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfkb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914850",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfGR"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914771",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfVg"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914731",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfUI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914601",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfSG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914966",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfIl"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZz": [
+        {
+            "Element Name": "Basic Wall:STB 190:2913692",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfkb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914966",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfIl"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914601",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfSG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2915041",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfJO"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZ_": [
+        {
+            "Element Name": "Basic Wall:STB 190:2913692",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfkb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2915041",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfJO"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914601",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfSG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2915100",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfKb"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZx": [
+        {
+            "Element Name": "Basic Wall:STB 190:2913692",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfkb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2915100",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfKb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914601",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfSG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2915184",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfL9"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZq": [
+        {
+            "Element Name": "Basic Wall:STB 190:2913692",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfkb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2915184",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfL9"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914601",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfSG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2915268",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfNz"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZn": [
+        {
+            "Element Name": "Basic Wall:STB 190:2913692",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfkb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2915268",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfNz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914601",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfSG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2915388",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtf85"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZo": [
+        {
+            "Element Name": "Basic Wall:STB 190:2913692",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfkb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2915388",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtf85"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914601",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfSG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 325:2914374",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfP$"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZF": [
+        {
+            "Element Name": "Basic Wall:STB 150:2903616",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocPy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2913922",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfYx"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2913856",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfXv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2913821",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfWa"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2904069",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odWv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903766",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocRg"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZ8": [
+        {
+            "Element Name": "Basic Wall:STB 150:2903616",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocPy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903874",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocT_"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2904069",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odWv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903952",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocUi"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZ5": [
+        {
+            "Element Name": "Basic Wall:STB 150:2903616",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocPy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903700",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocQe"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2904069",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odWv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903874",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocT_"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZ6": [
+        {
+            "Element Name": "Basic Wall:STB 150:2903616",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocPy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903766",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocRg"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2904069",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odWv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903700",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocQe"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZ3": [
+        {
+            "Element Name": "Basic Wall:STB 150:2903616",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocPy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903952",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocUi"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2904069",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odWv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2905140",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odm8"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZS": [
+        {
+            "Element Name": "Basic Wall:STB 150:2903154",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocHE"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2905799",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odxx"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2904239",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odYJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903292",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocJ0"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSZP": [
+        {
+            "Element Name": "Basic Wall:STB 150:2903154",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocHE"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903292",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocJ0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2904318",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odZ2"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903215",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocIJ"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSbd": [
+        {
+            "Element Name": "Basic Wall:STB 250:2876647",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsu5I"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2905912",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ody4"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2905890",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odyU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903154",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocHE"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903215",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocIJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2904422",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odbQ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903616",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocPy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2904903",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odjx"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2904870",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odiQ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2903424",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocMy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2923253",
+            "Element GlobalID": "2$5Q5d1cv7IBTYgE9epSYO"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906188",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0od1m"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906016",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0od_S"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSbW": [
+        {
+            "Element Name": "Basic Wall:STB 0250:2907237",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcV$T"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907173",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcV_T"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2876647",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsu5I"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907125",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVXD"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907087",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVXt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907025",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVWf"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906926",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVYM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906895",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVYt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906826",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVbo"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906779",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVaZ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906756",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVay"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906681",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVc1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906608",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0od7C"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906582",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0od7g"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906469",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0od5P"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906397",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0od4X"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906372",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0od4u"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906264",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0od2a"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906209",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0od1T"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2906188",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0od1m"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2923253",
+            "Element GlobalID": "2$5Q5d1cv7IBTYgE9epSYO"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2904069",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0odWv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 325:2914374",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfP$"
+        }
+    ],
+    "2$5Q5d1cv7IBTYgE9epSbP": [
+        {
+            "Element Name": "Basic Wall:STB 250:2876647",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsu5I"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908761",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS7X"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908742",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS7_"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908690",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS6g"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908653",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS9L"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908632",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS9W"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908558",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS8s"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908502",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSBk"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908485",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSBz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908420",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSAy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908355",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSDx"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908330",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSCI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908242",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSFg"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908153",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVn1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908121",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVnX"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908082",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVmA"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908023",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVpF"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908004",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVpS"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907924",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVoi"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907851",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVrp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907828",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVqC"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907777",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVqv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907729",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVtf"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907704",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVs0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0600:2915534",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfBt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914601",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfSG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0600:2915656",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfDn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908945",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS2f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908866",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS5w"
+        }
+    ],
+    "3qjC9FX3X9EuMJWZd4GVwN": [
+        {
+            "Element Name": "Basic Wall:STB 380:2877981",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fkJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2883644",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNVz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2883477",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxeXK"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2878936",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fnM"
+        }
+    ],
+    "3qjC9FX3X9EuMJWZd4GVxu": [
+        {
+            "Element Name": "Basic Wall:STB 380:2877981",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fkJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2878250",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fga"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2883477",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxeXK"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2883644",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNVz"
+        }
+    ],
+    "3qjC9FX3X9EuMJWZd4GVxW": [
+        {
+            "Element Name": "Basic Wall:STB 260:2878250",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fga"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2885027",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwN9Y"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2884919",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNBs"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2884511",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNHU"
+        },
+        {
+            "Element Name": "OG3_Ecke:OG3_Ecke:2883323",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxeaw"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0600:2887571",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WpZ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2878936",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fnM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2883477",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxeXK"
+        }
+    ],
+    "3qjC9FX3X9EuMJWZd4GVZB": [
+        {
+            "Element Name": "Basic Wall:STB 210:2884230",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNL7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2884511",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNHU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2884919",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNBs"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2885455",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WG$"
+        }
+    ],
+    "3qjC9FX3X9EuMJWZd4GVZ8": [
+        {
+            "Element Name": "Basic Wall:STB 210:2884230",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNL7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2885455",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WG$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2884919",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNBs"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2885345",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WMH"
+        }
+    ],
+    "3qjC9FX3X9EuMJWZd4GVZr": [
+        {
+            "Element Name": "Basic Wall:STB 210:2884230",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNL7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2885345",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WMH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2884919",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNBs"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2885211",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WKh"
+        }
+    ],
+    "3qjC9FX3X9EuMJWZd4GVZo": [
+        {
+            "Element Name": "Basic Wall:STB 260:2878250",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fga"
+        },
+        {
+            "Element Name": "Basic Wall:STB 210:2884230",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNL7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2885211",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WKh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2884919",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNBs"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2885027",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwN9Y"
+        }
+    ],
+    "3qjC9FX3X9EuMJWZd4GVfz": [
+        {
+            "Element Name": "Basic Wall:STB 500:2876997",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuFm"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2877285",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuBG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2912509",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfx4"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2912681",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtf_G"
+        }
+    ],
+    "3qjC9FX3X9EuMJWZd4GVfw": [
+        {
+            "Element Name": "Basic Wall:STB 500:2876997",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuFm"
+        },
+        {
+            "Element Name": "Basic Wall:STB 130:2912681",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtf_G"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2912509",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfx4"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2878250",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fga"
+        }
+    ],
+    "3qjC9FX3X9EuMJWZd4GVfd": [
+        {
+            "Element Name": "Basic Wall:STB 260:2877285",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuBG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2913317",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfeS"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2878250",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fga"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2912509",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfx4"
+        }
+    ],
+    "32lurNvKjBugU1HV59rWUp": [
+        {
+            "Element Name": "Basic Wall:STB 250:2878936",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fnM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 280:2890263",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr293"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2890514",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2D6"
+        },
+        {
+            "Element Name": "OG3_Ecke:OG3_Ecke:2883323",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxeaw"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2890972",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2I8"
+        }
+    ],
+    "32lurNvKjBugU1HV59rWUs": [
+        {
+            "Element Name": "Basic Wall:STB 280:2891401",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2RT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2893681",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1yb"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2893883",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr11l"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2891578",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2Tk"
+        }
+    ],
+    "32lurNvKjBugU1HV59rWUr": [
+        {
+            "Element Name": "Basic Wall:STB 280:2891401",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2RT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2891578",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2Tk"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2893948",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr10e"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894008",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr13i"
+        }
+    ],
+    "32lurNvKjBugU1HV59rWUS": [
+        {
+            "Element Name": "Basic Wall:STB 250:2878936",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fnM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894367",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr19B"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894293",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr161"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894228",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr170"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894180",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr14m"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2893948",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr10e"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894116",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr15m"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894066",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr12c"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2891654",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2VI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2894814",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1EA"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894476",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1BO"
+        }
+    ],
+    "32lurNvKjBugU1HV59rWGJ": [
+        {
+            "Element Name": "Basic Wall:STB 430:2879692",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6e52"
+        },
+        {
+            "Element Name": "Basic Wall:STB 280:2891401",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2RT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2890972",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2I8"
+        },
+        {
+            "Element Name": "OG3_Ecke:OG3_Ecke:2883323",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxeaw"
+        },
+        {
+            "Element Name": "Basic Wall:STB 280:2890192",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr264"
+        },
+        {
+            "Element Name": "Basic Wall:STB 280:2890389",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2B1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2880155",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6eCL"
+        }
+    ],
+    "32lurNvKjBugU1HV59rWJW": [
+        {
+            "Element Name": "Basic Wall:STB 250:2878936",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fnM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2888572",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36X0C"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889475",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XHp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2889733",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36Xjr"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2880155",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6eCL"
+        },
+        {
+            "Element Name": "Basic Wall:STB 280:2890389",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2B1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 280:2890192",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr264"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2890514",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2D6"
+        },
+        {
+            "Element Name": "Basic Wall:STB 280:2890263",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr293"
+        }
+    ],
+    "32lurNvKjBugU1HV59rW73": [
+        {
+            "Element Name": "Basic Wall:STB 150:2880155",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6eCL"
+        },
+        {
+            "Element Name": "Basic Wall:STB 200:2889733",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36Xjr"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889475",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XHp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889619",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XJZ"
+        }
+    ],
+    "32lurNvKjBugU1HV59rW76": [
+        {
+            "Element Name": "Basic Wall:STB 150:2880155",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6eCL"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889619",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XJZ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889475",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XHp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889568",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XGG"
+        }
+    ],
+    "32lurNvKjBugU1HV59rW75": [
+        {
+            "Element Name": "Basic Wall:STB 150:2880155",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6eCL"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889568",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XGG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889475",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XHp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2888572",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36X0C"
+        },
+        {
+            "Element Name": "Basic Wall:STB 210:2888145",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XAX"
+        }
+    ],
+    "32lurNvKjBugU1HV59rW78": [
+        {
+            "Element Name": "Basic Wall:STB 210:2888145",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XAX"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2888572",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36X0C"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889198",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XQU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889371",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XNh"
+        }
+    ],
+    "32lurNvKjBugU1HV59rW7F": [
+        {
+            "Element Name": "Basic Wall:STB 210:2888145",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XAX"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889371",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XNh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889198",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XQU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889284",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XKq"
+        }
+    ],
+    "32lurNvKjBugU1HV59r$uo": [
+        {
+            "Element Name": "Basic Wall:STB 210:2888145",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XAX"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889284",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XKq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889198",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XQU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889032",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XOu"
+        }
+    ],
+    "32lurNvKjBugU1HV59r$uB": [
+        {
+            "Element Name": "Basic Wall:STB 250:2878936",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fnM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0600:2887571",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WpZ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2886806",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36W$c"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2886489",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WWf"
+        },
+        {
+            "Element Name": "Basic Wall:STB 210:2888145",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XAX"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889032",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XOu"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889198",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XQU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2887894",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XEc"
+        },
+        {
+            "Element Name": "OG3_Ecke:OG3_Ecke:2883323",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxeaw"
+        }
+    ],
+    "32lurNvKjBugU1HV59r$uE": [
+        {
+            "Element Name": "Basic Wall:STB 150:2887051",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36Wxx"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2887098",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WxA"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2887161",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36Ww9"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2887426",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36Wno"
+        }
+    ],
+    "0oeilXWI57affOJhG2bTkU": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "0oeilXWI57affOJhG2bTlv": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "3vmqf0_nH38PzhermHTRn9": [
+        {
+            "Element Name": "Basic Wall:STB 250:2876647",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsu5I"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908974",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS2M"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2908945",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS2f"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0600:2915656",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfDn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914663",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfTU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2877285",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuBG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2881135",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxe6k"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2910047",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSJd"
+        },
+        {
+            "Element Name": "Basic Wall:STB 160:2909984",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSIO"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2909180",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS14"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2909043",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcS3B"
+        }
+    ],
+    "3vmqf0_nH38PzhermHTRnC": [
+        {
+            "Element Name": "Basic Wall:STB 380:2876018",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuV7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2881474",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxe03"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2881135",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxe6k"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2877285",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuBG"
+        }
+    ],
+    "1__38HPvb06g4T9DOIoLLb": [
+        {
+            "Element Name": "OG3_Ecke:OG3_Ecke:2883323",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxeaw"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2884511",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjwNHU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 350:2886151",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36Wbt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2886489",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WWf"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2886806",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36W$c"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2887051",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36Wxx"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2887426",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36Wno"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2887161",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36Ww9"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2887098",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36WxA"
+        }
+    ],
+    "3BriyxEmfARRJIgZm79G03": [
+        {
+            "Element Name": "Basic Wall:STB 250:2878936",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fnM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 100:2887894",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XEc"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2889198",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36XQU"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2888572",
+            "Element GlobalID": "21i13SMvX8o9BGT3o36X0C"
+        }
+    ],
+    "3BriyxEmfARRJIgZm79G2S": [
+        {
+            "Element Name": "Basic Wall:STB 100:2891654",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr2VI"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894544",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1A4"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2894941",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1G9"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2894814",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1EA"
+        }
+    ],
+    "3BriyxEmfARRJIgZm79G2P": [
+        {
+            "Element Name": "Basic Wall:STB 0500:2894476",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1BO"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2894814",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1EA"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2894941",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1G9"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894544",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1A4"
+        }
+    ],
+    "3BriyxEmfARRJIgZm79GD1": [
+        {
+            "Element Name": "Basic Wall:STB 250:2876647",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsu5I"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907519",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVx7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907484",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVxa"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907427",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVwR"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907365",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVzT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907339",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVzp"
+        },
+        {
+            "Element Name": "Basic Wall:STB 325:2914374",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfP$"
+        },
+        {
+            "Element Name": "Basic Wall:STB 150:2914601",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfSG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0600:2915534",
+            "Element GlobalID": "2xha1EVebBy8ZbcTVjtfBt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907704",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVs0"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2907603",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcVvh"
+        }
+    ],
+    "10urw7VT95HAWhKNAnaPe3": [
+        {
+            "Element Name": "Basic Wall:STB 380:2876018",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuV7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911545",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSw1"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911421",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSy5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2909716",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSMi"
+        }
+    ],
+    "10urw7VT95HAWhKNAnaQNr": [
+        {
+            "Element Name": "Basic Wall:STB 380:2876018",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuV7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2909486",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSQM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2910924",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSbq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911016",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSYG"
+        }
+    ],
+    "10urw7VT95HAWhKNAnaQNA": [
+        {
+            "Element Name": "Basic Wall:STB 380:2876018",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuV7"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2911016",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSYG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0250:2910924",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcSbq"
+        },
+        {
+            "Element Name": "Basic Wall:STB 120:2910570",
+            "Element GlobalID": "2NO9QtQAL869wxTVsWcShI"
+        }
+    ],
+    "10urw7VT95HAWhKNAnaQM9": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "10urw7VT95HAWhKNAnaQ3J": [
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        }
+    ],
+    "10urw7VT95HAWhKNAnaQ3G": [
+        {
+            "Element Name": "Basic Wall:STB 130:2759045",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUiv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        }
+    ],
+    "1v3eowz0jFWu1pFrnXIog7": [
+        {
+            "Element Name": "Basic Wall:STB 285:2735441",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHpH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2756665",
+            "Element GlobalID": "1g6W00HvrA4QIi3g9BlUA5"
+        },
+        {
+            "Element Name": "Basic Wall:STB 275:2762432",
+            "Element GlobalID": "1Xj1LpTKn0hwDOnO9U2t5k"
+        }
+    ],
+    "0W4jBZGp1B88T7$Zl5xyQ4": [
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        }
+    ],
+    "0W4jBZGp1B88T7$Zl5xyQ7": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "0W4jBZGp1B88T7$Zl5xyVe": [
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        }
+    ],
+    "0W4jBZGp1B88T7$Zl5xyVh": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "2eCNYA6Cf1VPnLzmYlvnSS": [
+        {
+            "Element Name": "Basic Wall:STB 285:2638142",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLIc"
+        },
+        {
+            "Element Name": "Basic Wall:STB 240:2640310",
+            "Element GlobalID": "2YZsRZoZb85BisLWWnD2zT"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2645024",
+            "Element GlobalID": "3Szq9NZ5b6lANK8wF7TbZW"
+        }
+    ],
+    "2eCNYA6Cf1VPnLzmYlvnUw": [
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        }
+    ],
+    "2eCNYA6Cf1VPnLzmYlvnUz": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "08og38$Q11V9Gd90lq6WrY": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "08og38$Q11V9Gd90lq6Wso": [
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        }
+    ],
+    "2JZ5yvKPz3NwH6N0KnK6vx": [
+        {
+            "Element Name": "Basic Wall:STB 130:2471636",
+            "Element GlobalID": "1TOQDrzyr6Jej5xJiCdKWb"
+        }
+    ],
+    "2JZ5yvKPz3NwH6N0KnK6vu": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "2JZ5yvKPz3NwH6N0KnK6$3": [
+        {
+            "Element Name": "Basic Wall:STB 350:2778178",
+            "Element GlobalID": "3qrzZYNmP1KvcWccARQ$nv"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2818959",
+            "Element GlobalID": "1ZGwSlBKX1fhx$quWqkp5y"
+        }
+    ],
+    "0vKRQJ_cLETATSbPM2ItTD": [
+        {
+            "Element Name": "Wand2:Wand2:2505888",
+            "Element GlobalID": "24pU_nS8XCVekK9P1quE$W"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2458649",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5AqK"
+        },
+        {
+            "Element Name": "C-Wand:C-Wand:2503594",
+            "Element GlobalID": "3Iwq7ksMjAywGKJSMKRyt3"
+        },
+        {
+            "Element Name": "C-Wand 2:C-Wand 2:2504037",
+            "Element GlobalID": "3Iwq7ksMjAywGKJSMKRyiC"
+        },
+        {
+            "Element Name": "Basic Wall:STB 365:2462363",
+            "Element GlobalID": "3nPp2FtCT3gB_lPhwnb9_K"
+        },
+        {
+            "Element Name": "Wand3:Wand3:2506454",
+            "Element GlobalID": "24pU_nS8XCVekK9P1quEsM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2461526",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB5APR"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2456734",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55MJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 510:2457178",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55TN"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2454357",
+            "Element GlobalID": "2Uyn6q91TFx8F8jizB55fO"
+        },
+        {
+            "Element Name": "Wand5:Wand5:2510092",
+            "Element GlobalID": "3pO9r8jdL6quzZl_oVtv8c"
+        },
+        {
+            "Element Name": "Basic Wall:STB 500:2450375",
+            "Element GlobalID": "3I4JLWAvT5Gfm5cD7oqqYn"
+        },
+        {
+            "Element Name": "Wand4:Wand4:2506999",
+            "Element GlobalID": "24pU_nS8XCVekK9P1qu9Et"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2446576",
+            "Element GlobalID": "0zDfnzjsv8GO_YFRY7jWPJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 510:2447161",
+            "Element GlobalID": "0zDfnzjsv8GO_YFRY7jWMQ"
+        }
+    ],
+    "0vKRQJ_cLETATSbPM2IqYs": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        }
+    ],
+    "0vKRQJ_cLETATSbPM2IqaE": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        }
+    ],
+    "0vKRQJ_cLETATSbPM2IqaD": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        }
+    ],
+    "0vKRQJ_cLETATSbPM2Iqa8": [
+        {
+            "Element Name": "Basic Wall:STB 380:2445232",
+            "Element GlobalID": "3An7ef3H9ARQ_GxB$bOvUn"
+        }
+    ],
+    "0vKRQJ_cLETATSbPM2IqaN": [
+        {
+            "Element Name": "Basic Wall:STB 500:2450375",
+            "Element GlobalID": "3I4JLWAvT5Gfm5cD7oqqYn"
+        }
+    ],
+    "31xcnYZuH6d8XawV3rMVcZ": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "31xcnYZuH6d8XawV3rMVcm": [
+        {
+            "Element Name": "Basic Wall:STB 380:2876018",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuV7"
+        },
+        {
+            "Element Name": "OG3_Ecke:OG3_Ecke:2883323",
+            "Element GlobalID": "1PEWcECOn4cwbzm$mjxeaw"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2877285",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuBG"
+        },
+        {
+            "Element Name": "Basic Wall:STB 500:2876997",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsuFm"
+        },
+        {
+            "Element Name": "Basic Wall:STB 260:2878250",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fga"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2877981",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fkJ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2878936",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6fnM"
+        },
+        {
+            "Element Name": "Basic Wall:STB 0500:2894476",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1BO"
+        },
+        {
+            "Element Name": "Basic Wall:STB 430:2879692",
+            "Element GlobalID": "34bRVFXiL46v1h1tGS6e52"
+        },
+        {
+            "Element Name": "Basic Wall:STB 125:2895269",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1Nn"
+        },
+        {
+            "Element Name": "Basic Wall:STB 125:2895464",
+            "Element GlobalID": "0cRt11tnT1wgDwq0Rkr1Oy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 140:2895747",
+            "Element GlobalID": "1tctSVJqT28ua79UjIH_M_"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2902859",
+            "Element GlobalID": "3wJ3aq5arE4A5UCMR0ocDt"
+        },
+        {
+            "Element Name": "Basic Wall:STB 250:2876647",
+            "Element GlobalID": "0FDk06pTrBA9IAtpGYsu5I"
+        }
+    ],
+    "31xcnYZuH6d8XawV3rMVc$": [
+        {
+            "Element Name": "St\u00fctzen 1. OG1:St\u00fctzen 1. OG:2735269",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHqb"
+        },
+        {
+            "Element Name": "Zusatz 8:Zusatz 1:2732831",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVK"
+        },
+        {
+            "Element Name": "Basic Wall:STB 510:2732583",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuRi"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2732615",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuQC"
+        },
+        {
+            "Element Name": "Zusatz:Zusatz:2732789",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuO_"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735441",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHpH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 500:2732657",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuQw"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2754295",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5Yv"
+        },
+        {
+            "Element Name": "Zusatz 13:Zusatz 13:2754463",
+            "Element GlobalID": "0zxhb1jwvFrB4v09aU$5dH"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2732803",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuV8"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2732855",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuVy"
+        },
+        {
+            "Element Name": "Basic Wall:STB 3984:2735787",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHyh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2735518",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHmU"
+        },
+        {
+            "Element Name": "Wandzusatz1:Wandzusatz:2735759",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHyF"
+        },
+        {
+            "Element Name": "Zusatz 10:Zusatz 7:2734964",
+            "Element GlobalID": "3kYdubp8fEieUNws6tPHhq"
+        },
+        {
+            "Element Name": "Zusatz 9:Zusatz 6:2734853",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeu$E"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2734728",
+            "Element GlobalID": "0T2SwqOsrApRkr5ruWeuv3"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2766567",
+            "Element GlobalID": "3D5qRfIm1269iJpmMZIbVj"
+        }
+    ],
+    "31xcnYZuH6d8XawV3rMVc1": [
+        {
+            "Element Name": "Zusatz 5:Zusatz 5:2640435",
+            "Element GlobalID": "2YZsRZoZb85BisLWWnD2pO"
+        },
+        {
+            "Element Name": "Zusatz 1:Zusatz 1:2639043",
+            "Element GlobalID": "3d_1gq49bB6Psel873HL5R"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2633925",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKw5x"
+        },
+        {
+            "Element Name": "Basic Wall:STB 3984:2638822",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLP_"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2700400",
+            "Element GlobalID": "0F3XE5P3DDSv_d5Madgnzn"
+        },
+        {
+            "Element Name": "Wandzusatz:Wandzusatz:2699981",
+            "Element GlobalID": "0F3XE5P3DDSv_d5MadgndC"
+        },
+        {
+            "Element Name": "St\u00fctzen 1. OG:St\u00fctzen 1. OG:2699296",
+            "Element GlobalID": "26LN5EJ5vAHwFZhEp03$uV"
+        },
+        {
+            "Element Name": "Zusatz 7:Zusatz 7:2695219",
+            "Element GlobalID": "0A61UaGGT6JRqVsSAwwMG3"
+        },
+        {
+            "Element Name": "Zusatz 6:Zusatz 6:2694362",
+            "Element GlobalID": "0A61UaGGT6JRqVsSAwwLZg"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2636189",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwWZ"
+        },
+        {
+            "Element Name": "Basic Wall:STB 390:2635861",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwdh"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2635254",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwH8"
+        },
+        {
+            "Element Name": "Zusatz 3:Zusatz 3:2639827",
+            "Element GlobalID": "3d_1gq49bB6Psel873HL9B"
+        },
+        {
+            "Element Name": "Basic Wall:STB 285:2638142",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLIc"
+        },
+        {
+            "Element Name": "Basic Wall:STB 500:2634819",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwNz"
+        },
+        {
+            "Element Name": "Basic Wall:STB 300:2639385",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLE1"
+        },
+        {
+            "Element Name": "Zusatz 2:Zusatz 2:2639733",
+            "Element GlobalID": "3d_1gq49bB6Psel873HLBj"
+        },
+        {
+            "Element Name": "Basic Wall:STB 380:2634447",
+            "Element GlobalID": "2mykBVwgn70RVUG38iKwDn"
+        }
+    ]
+}
