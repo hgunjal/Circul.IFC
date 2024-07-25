@@ -191,6 +191,7 @@ if __name__ == "__main__":
 
     # wall_prop_to_csv(ifc_file_path, output_dir) #shift all these variables to main file
     # opening_prop_to_csv(ifc_file_path, output_dir)
+
     get_space_door_relations(ifc_file_path, output_dir)
     get_space_wall_relations(ifc_file_path, output_dir)
     get_space_opening_relations(ifc_file_path, output_dir)
