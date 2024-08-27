@@ -1,1 +1,0 @@
-#keep all the functions here related to analysis among multiple elements

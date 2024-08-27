@@ -52,7 +52,7 @@ class IfcGeometry:
             settings.set(settings.USE_WORLD_COORDS, True)
             id_iter = itertools.count()
 
-            print("Extracting geometry from ifc...")
+            # print("Extracting geometry from ifc...")
             neutral_space_name = "Area"  # spaces that doesnt classify as a room but is a part of the building
             ifc_file = ifcopenshell.open(self.ifc_file_path)
             ifc_space_list = ifc_file.by_type("IfcSpace")
@@ -100,7 +100,7 @@ class IfcGeometry:
                                     self.space_type_name_dict[space.Name] = space.LongName
                                     self.space_storey_dict[space.Name] = storey_counter
 
-                            progressbar(space_counter, 0, len(ifc_space_list) - 1)
+                            # progressbar(space_counter, 0, len(ifc_space_list) - 1)
                             space_counter += 1
 
                 # Check for duplicate room names
@@ -182,7 +182,7 @@ class IfcGeometry:
         location_mesh_vec = np.reshape(location_mesh, (
             location_mesh.shape[0] * location_mesh.shape[1] * location_mesh.shape[2], location_mesh.shape[3]))
 
-        print("Generating space to position index map...")
+        # print("Generating space to position index map...")
         self.grid_shape = (self.x_size, self.y_size, self.z_size)
         self._3D_space_idx_array = np.ones(self.grid_shape, dtype=np.int64) * self.ambient_idx
 
@@ -194,7 +194,7 @@ class IfcGeometry:
             z_idx = idx_mesh_vec[bool_vec, 2]
             self._3D_space_idx_array[x_idx, y_idx, z_idx] = self.neutral_idx
 
-            progressbar(space_counter, 0, len(self.space_mesh_neutral_list) - 1)
+            # progressbar(space_counter, 0, len(self.space_mesh_neutral_list) - 1)
 
         # Set indices for normal space
         for space_counter, space_mesh in enumerate(self.space_mesh_list):
@@ -205,7 +205,7 @@ class IfcGeometry:
             self._3D_space_idx_array[x_idx, y_idx, z_idx] = space_counter
             self.space_idx_dict[self.space_name_list[space_counter]] = space_counter
 
-            progressbar(space_counter, 0, len(self.space_mesh_list) - 1)
+            # progressbar(space_counter, 0, len(self.space_mesh_list) - 1)
 
     def get_point_space_idx(self, x_idx, y_idx, z_idx):
         return self._3D_space_idx_array[x_idx, y_idx, z_idx]
